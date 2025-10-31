@@ -1,0 +1,120 @@
+{
+    "dataset": {
+        "object_counting": [
+            {
+                "input": {
+                    "question": "I have a blackberry, a clarinet, a nectarine, a plum, a strawberry, a banana, a flute, an orange, and a violin. How many fruits do I have?",
+                    "bloom_level": "Remembering"
+                },
+                "output": {
+                    "explanation": "This is a Remembering-level question. First, you need to remember the definition of fruits:To answer this, you need to recall which items are fruits. Fruits are edible plant parts that often contain seeds and are commonly sweet. In this list, blackberry, nectarine, plum, strawberry, banana, and orange are all fruits. Clarinet, flute, and violin are musical instruments, not edible items. Now, you need to recall basing counting: 1+1+1+1+1+1=6. The final answer is 6."
+                }
+            },
+            {
+                "input": {
+                    "question": "I have an orange, a raspberry, two peaches, a blackberry, an apple, a grape, a nectarine, and three plums. How many fruits do I have?",
+                    "bloom_level": "Remembering"
+                },
+                "output": {
+                    "explanation": "This is a Remembering-level question. First, you need to remember the definition of fruits: fruits are edible plant parts that often contain seeds and are commonly sweet. All of the items listed\u2014orange, raspberry, peaches, blackberry, apple, grape, nectarine, and plums\u2014are fruits. Next, recall how to count quantities correctly: orange (1), raspberry (1), peaches (2), blackberry (1), apple (1), grape (1), nectarine (1), plums (3): 1 + 1 + 2 + 1 + 1 + 1 + 1 + 3 = 11. The final answer is 11."
+                }
+            },
+            {
+                "input": {
+                    "question": "I have a lettuce head, a head of broccoli, an onion, a stalk of celery, two carrots, a garlic, and a yam. How many vegetables do I have?",
+                    "bloom_level": "Remembering"
+                },
+                "output": {
+                    "explanation": "This is a Remembering-level question. First, you need to remember the definition of vegetables: vegetables are edible parts of plants such as roots, stems, and leaves, usually used in savory dishes. In this list, lettuce, broccoli, onion, celery, carrots, garlic, and yam are all vegetables. Next, recall basic counting: lettuce (1), broccoli (1), onion (1), celery (1), carrots (2), garlic (1), yam (1). Now, add the amounts: 1 + 1 + 1 + 1 + 2 + 1 + 1 = 8. The final answer is 8."
+                }
+            }
+        ],
+        "disambiguation": [
+            {
+                "input": {
+                    "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The chief told the counselor that they took the day off.\nOptions:\n(A) The chief took the day off\n(B) The counselor took the day off\n(C) Ambiguous",
+                    "bloom_level": "Understanding"
+                },
+                "output": {
+                    "explanation": "This is an Understanding-level question. To answer it, you need to figure out who most likely took the day off. The sentence says \u201cThe chief told the counselor that they took th day off.\u201d Now think: if the counselor had taken the day off, they would already know that\u2014there would be no reason to be told. But if the chief took the day off, it makes sense that the counselor is being informed. So, based on how people typically communicate, it's more likely that the chief is the one who took the day off. The final answer is A."
+                }
+            },
+            {
+                "input": {
+                    "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: The manager sent a message to the secretary, but he didn\u2019t reply yet.\nOptions:\n(A) The secretary didn\u2019t reply yet\n(B) The manager didn\u2019t reply yet\n(C) Ambiguous",
+                    "bloom_level": "Understanding"
+                },
+                "output": {
+                    "explanation": "This is an Understanding-level question. You\u2019re being asked to decide who most likely didn\u2019t reply. The sentence says \u201cThe manager sent a message to the secretary, but he didn\u2019t reply yet.\u201d Normally, when someone sends a message, the other person is expected to respond. So it\u2019s more probable that the secretary didn\u2019t reply. The sentence structure makes \u201che\u201d slightly ambiguous, but based on typical communication flow, the most likely answer is A: the secretary didn\u2019t reply yet. The final answer is A."
+                }
+            },
+            {
+                "input": {
+                    "question": "In the following sentences, explain the antecedent of the pronoun (which thing the pronoun refers to), or state that it is ambiguous.\nSentence: Bailey will plan to meet the director at his office\nOptions:\n(A) It will be Bailey\u2019s office\n(B) It will be the director\u2019s office\n(C) Ambiguous",
+                    "bloom_level": "Understanding"
+                },
+                "output": {
+                    "explanation": "This is an Understanding-level question. You need to decide whose office they\u2019re most likely meeting at. The sentence says \u201cBailey will plan to meet the director at his office.\u201d The pronoun \u201chis\u201d could refer to either Bailey or the director. There\u2019s no strong clue in the sentence to tell us which one for sure. Since both interpretations are reasonable and no extra context is given, we can't decide with confidence. That makes the sentence ambiguous. The final answer is C."
+                }
+            }
+        ],
+        "gsm": [
+            {
+                "input": {
+                    "question": "Olivia has $23. She bought five bagels for $3 each. How much money does she have left?",
+                    "bloom_level": "Applying"
+                },
+                "output": {
+                    "explanation": "To solve this, apply your understanding of multiplication and subtraction in real-life money scenarios. First, use multiplication to find out how much Olivia spent: 5 bagels \u00d7 $3 per bagel = $15. Next, apply subtraction to find out how much money she has left: $23 - $15 = $8. The final answer is 8."
+                }
+            },
+            {
+                "input": {
+                    "question": "Michael had 58 golf balls. On tuesday, he lost 23 golf balls. On wednesday, he lost 2 more. How many golf balls did he have at the end of wednesday?",
+                    "bloom_level": "Applying"
+                },
+                "output": {
+                    "explanation": "To solve this, apply subtraction in a multi-step context. Start with what you know: Michael had 58 golf balls. Use subtraction to find out how many he had after Tuesday: 58 - 23 = 35. Then subtract again to include Wednesday\u2019s loss: 35 - 2 = 33. The final answer is 33."
+                }
+            },
+            {
+                "input": {
+                    "question": "There were nine computers in the server room. Five more computers were installed each day, from monday to thursday. How many computers are now in the server room?",
+                    "bloom_level": "Applying"
+                },
+                "output": {
+                    "explanation": "To solve this, apply multiplication and addition in a repeated event scenario. Recognize that 5 computers were added for 4 days (Monday through Thursday), so multiply: 5 \u00d7 4 = 20.Then add the new computers to the original: 9 + 20 = 29. The final answer is 29."
+                }
+            }
+        ],
+        "snarks": [
+            {
+                "input": {
+                    "question": "Which statement is sarcastic?\nOptions:\n(A) Yes, because having interests and actively researching them is a huge waste\n(B) Yes, because having interests and actively researching them is a huge deal",
+                    "bloom_level": "Analyzing"
+                },
+                "output": {
+                    "explanation": "This is an Analyzing-level question. To determine sarcasm, we need to look for a statement where the surface meaning contrasts with the intended meaning\u2014often implying mockery o irony. Let\u2019s analyze Option (A): It says that having interests and researching them is \u201ca huge waste.\u201d At face value, this sounds negative, but in reality, pursuing interests is seen as productive and meaningful. This contradiction suggests the speaker is not being sincere\u2014they likely mean the opposite. That\u2019s a sign of sarcasm. Now let\u2019s look at Option (B): It calls those efforts \u201ca huge deal,\u201d which agrees with the general view that pursuing interests is important. There\u2019s no contradiction here, and the tone is sincere. The final answer is A."
+                }
+            },
+            {
+                "input": {
+                    "question": "Which statement is sarcastic?\nOptions:\n(A) No one is going to disagree with you on this. Avoiding ad hominem attacks really help your case\n(B) No one is going to disagree with you on this. Ad hominem attacks really help your case",
+                    "bloom_level": "Analyzing"
+                },
+                "output": {
+                    "explanation": "This is an Analyzing-level question. We\u2019re looking for sarcasm\u2014a mismatch between what\u2019s said and what\u2019s meant. Option (A) says avoiding ad hominem attacks helps your case. That makes logical sense\u2014attacking the argument, not the person, is a better debate strategy. There\u2019s no irony or contradiction here. Option (B), on the other hand, praises ad hominem attacks\u2014saying they \u201creally help your case.\u201d But we know that such attacks usually weaken an argument by shifting focus from logic to personal insults. This mismatch between what's said and what is commonly understood creates a sarcastic tone. The final answer is B."
+                }
+            },
+            {
+                "input": {
+                    "question": "Which statement is sarcastic?\nOptions:\n(A) Consistency in the league's punishments? What do you think this is supposed to be, politics?\n(B) Consistency in the league's punishments? What do you think this is supposed to be, moral?",
+                    "bloom_level": "Analyzing"
+                },
+                "output": {
+                    "explanation": "This is an Analyzing-level question.To find sarcasm, we need to identify a mismatch between expectation and reality that\u2019s presented with irony. Option (A) compares consistency to politics, which is often viewed as inconsistent or hypocritical. So, the speaker might be ironically pointing out the lack of consistency by pretending to suggest it\u2019s too much to expect\u2014this is sarcasm. Option (B) compares consistency to morality, which is a more straightforward comparison. It doesn\u2019t involve an ironic twist; it just asks whether the league should base its decisions on moral grounds Because Option (A) uses an ironic tone to criticize inconsistency, the sarcastic statement is Option (A)."
+                }
+            }
+        ]
+    }
+}
