@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of homeostasis in biological systems?",
+    "answer": "Homeostasis is the maintenance of relatively stable internal conditions in biological systems despite changes in the external environment, through various self-regulating control mechanisms."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What are the four nitrogenous bases found in DNA?",
+    "answer": "Adenine, thymine, guanine, and cytosine."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the first law of thermodynamics?",
+    "answer": "The first law of thermodynamics states that energy cannot be created or destroyed, only transformed from one form to another. The total energy of an isolated system remains constant."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What are the main components of a eukaryotic cell?",
+    "answer": "The main components of a eukaryotic cell include the nucleus (containing DNA), cell membrane, cytoplasm, mitochondria, endoplasmic reticulum, Golgi apparatus, lysosomes, ribosomes, cytoskeleton, and in plant cells, vacuoles and chloroplasts."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What are the three laws of Kepler regarding planetary motion?",
+    "answer": "Kepler's three laws are: 1) Planets move in elliptical orbits with the Sun at one focus; 2) A line connecting a planet to the Sun sweeps out equal areas in equal times; 3) The square of a planet's orbital period is proportional to the cube of its semi-major axis."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of homeostasis and describe how the human body maintains temperature equilibrium.",
+    "answer": "Homeostasis is the body's ability to maintain a stable internal environment despite external changes. For temperature regulation, the hypothalamus acts as a thermostat. When too hot, the body induces sweating and vasodilation to release heat; when too cold, it triggers shivering and vasoconstriction to conserve heat. These negative feedback mechanisms keep body temperature around 98.6\u00b0F (37\u00b0C), essential for proper cellular function."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the second law of thermodynamics and its implications for energy transfer in biological systems.",
+    "answer": "The second law of thermodynamics states that entropy in an isolated system always increases over time, meaning energy spontaneously disperses from concentrated to diffuse forms. In biological systems, this means energy transfers are never 100% efficient, with some energy always lost as heat. Organisms must constantly input energy to maintain their highly ordered state against this natural tendency toward disorder. This principle explains why metabolic processes are multi-stepped, why continuous energy input is necessary for life, and ultimately why maintaining biological order requires sophisticated energy management systems."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the process of cellular respiration and how it differs from photosynthesis in terms of energy transformation.",
+    "answer": "Cellular respiration breaks down glucose to produce ATP, converting stored chemical energy into usable energy for cells. Photosynthesis does the opposite\u2014it captures light energy and converts it into chemical energy stored in glucose. While respiration releases energy (catabolic), photosynthesis stores energy (anabolic). Respiration consumes oxygen and produces carbon dioxide, whereas photosynthesis consumes carbon dioxide and produces oxygen."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Describe the structure of DNA and explain how its molecular arrangement enables genetic information storage.",
+    "answer": "DNA has a double helix structure consisting of two complementary strands twisted around each other. Each strand has a sugar-phosphate backbone with nitrogenous bases (adenine, thymine, guanine, and cytosine) projecting inward. The specific sequence of these bases stores genetic information, with A always pairing with T and G with C. This complementary base-pairing enables both stable information storage and accurate replication during cell division."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of quantum entanglement and how it challenges our classical understanding of physics.",
+    "answer": "Quantum entanglement occurs when particles become linked so that the quantum state of each particle cannot be described independently. When measuring one entangled particle, you instantly know information about its partner regardless of distance. This challenges classical physics in three key ways: it suggests non-local connections between particles, appears to allow instantaneous influence across any distance (though no useful information can be transmitted this way), and demonstrates that quantum properties aren't predetermined until measurement. This phenomenon reveals the fundamentally probabilistic and interconnected nature of quantum reality."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "Using your knowledge of fluid dynamics, explain how you would design a more efficient water filtration system for a rural community with limited resources.",
+    "answer": "I would design a gravity-fed multi-stage filtration system using locally available materials. The system would include: (1) a sedimentation tank to remove large particles, (2) a series of gravel and sand filters with decreasing grain sizes to trap smaller particles, and (3) an activated charcoal layer or local alternative for chemical filtration. By positioning tanks at different heights, gravity creates the necessary pressure for water flow, eliminating the need for pumps or electricity. The system would feature wide-diameter pipes to reduce clogging and optimize flow rates. For sustainability, I would incorporate a simple backwashing mechanism to clean filters and extend their lifespan, and design the system to be easily maintained by community members using local materials."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "Apply the principles of thermodynamics to explain how a refrigerator works to keep food cold.",
+    "answer": "A refrigerator works by using a refrigerant that circulates through a closed system. Following thermodynamic principles, it absorbs heat from inside the refrigerator when the refrigerant evaporates at low pressure in the evaporator coils. The compressor then uses electrical energy to compress this gas, raising its temperature and pressure. As the hot refrigerant flows through condenser coils outside the refrigerator, it releases heat to the surrounding environment and condenses back to liquid. Finally, the high-pressure liquid passes through an expansion valve, which rapidly reduces its pressure and temperature before it returns to the evaporator, completing the cycle. This process effectively moves heat from inside to outside the refrigerator, cooling its contents while following the laws of thermodynamics."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "Using your understanding of enzyme kinetics, describe how you would design an experiment to determine the optimal pH and temperature conditions for a newly discovered enzyme.",
+    "answer": "I would design a two-phase experiment. First, to determine optimal pH, I'd prepare reaction mixtures with the enzyme and its substrate in different buffer solutions ranging from pH 3-10, while keeping temperature and concentrations constant. I would measure enzyme activity (product formation rate) at each pH using spectrophotometry. For optimal temperature, I'd use the identified optimal pH and test activity across temperatures from 4-80\u00b0C. Both experiments would include appropriate controls (no enzyme, known enzyme) and replicates. By plotting activity versus pH and temperature separately, I could identify the conditions where the enzyme functions most efficiently."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "Apply the concept of natural selection to explain how antibiotic resistance develops in bacterial populations and suggest a strategy to minimize this problem in healthcare settings.",
+    "answer": "Antibiotic resistance develops through natural selection when random mutations give some bacteria protection against antibiotics. When antibiotics are used, susceptible bacteria die while resistant ones survive and reproduce, passing resistance genes to offspring. Over generations, the bacterial population becomes predominantly resistant. To minimize this problem, healthcare settings should implement antibiotic stewardship programs (prescribing antibiotics only when necessary and at appropriate doses), ensure patients complete full treatment courses, improve infection control practices, conduct regular surveillance of resistance patterns, and educate both healthcare providers and patients about proper antibiotic use."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "Apply the principles of genetics to design a breeding program that could increase crop yield while maintaining resistance to local pests.",
+    "answer": "A breeding program would involve selecting parent plants with both high yield and pest resistance, using marker-assisted selection to track beneficial genes, implementing controlled crosses followed by backcrossing to combine traits, and conducting multi-location field trials to verify performance. The program would maintain genetic diversity while gradually increasing the frequency of desirable alleles through recurrent selection cycles."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between atmospheric carbon dioxide levels and global temperature changes over the past century. What patterns can you identify and what might they suggest about climate change mechanisms?",
+    "answer": "Over the past century, atmospheric CO2 has risen from about 295 ppm to over 415 ppm, while global temperatures have increased by approximately 1.0-1.2\u00b0C. The data shows a strong positive correlation, with both metrics accelerating significantly since the 1970s. This pattern supports the greenhouse effect mechanism, where increased CO2 traps heat in the atmosphere. The relationship isn't perfectly linear due to oceanic thermal inertia, other greenhouse gases, and natural climate variability, suggesting complex feedback mechanisms in the climate system."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Examine the data from a drug trial showing different patient responses to a new medication. What factors might explain the variation in effectiveness across different demographic groups?",
+    "answer": "Variations in drug effectiveness across demographic groups can be explained by genetic differences affecting drug metabolism, age-related physiological changes, sex-based biological differences, comorbidities, drug interactions from polypharmacy, environmental and lifestyle factors, socioeconomic disparities affecting adherence, and epigenetic influences."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Compare and contrast the mechanisms of aerobic and anaerobic respiration at the cellular level. What do these differences reveal about the evolutionary adaptations of organisms in different environments?",
+    "answer": "Aerobic respiration uses oxygen to completely break down glucose in mitochondria, yielding 30-32 ATP molecules, while anaerobic respiration occurs without oxygen in the cytoplasm, producing only 2 ATP through processes like lactic acid fermentation or alcohol fermentation. These differences reflect evolutionary adaptations where aerobic respiration evolved later but enabled the development of complex multicellular organisms due to its higher energy efficiency, while anaerobic pathways represent ancient metabolic processes that allow organisms to survive in oxygen-limited environments. Many organisms maintain both pathways as an adaptation to fluctuating environmental conditions."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between biodiversity loss and ecosystem stability across different biomes. What patterns emerge when comparing resilience in species-rich versus species-poor environments?",
+    "answer": "Higher biodiversity generally correlates with greater ecosystem stability across biomes. Species-rich environments demonstrate enhanced resilience through functional redundancy, better resistance to invasions, and faster recovery from disturbances. In contrast, species-poor environments show heightened vulnerability to cascading effects when key species are lost. The relationship isn't purely linear\u2014functional diversity often matters more than raw species counts, and stability thresholds vary by biome type. While tropical rainforests and coral reefs maintain stability through redundant species interactions, some species-poor environments have evolved specialized resilience mechanisms despite lower diversity."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Examine the correlation between neurotransmitter imbalances and specific mental health disorders. What does this relationship suggest about the biological basis of psychological conditions?",
+    "answer": "Specific neurotransmitter imbalances correlate with particular mental disorders: serotonin with depression and anxiety, dopamine with schizophrenia and addiction, GABA with anxiety disorders, and glutamate with various severe conditions. This correlation, along with the effectiveness of medications targeting these systems, strongly suggests mental disorders have biological underpinnings. However, the relationship is complex, as environmental factors and psychological processes interact with biology, supporting a biopsychosocial model rather than a purely biological one."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the effectiveness of current climate change mitigation strategies. Which approach do you believe has the most potential for success, and why?",
+    "answer": "Current climate mitigation strategies show mixed effectiveness. Renewable energy transition has the most potential because it directly addresses emissions at source, has demonstrated dramatic cost reductions making it economically competitive with fossil fuels, enjoys broad public support, creates economic opportunities, and continues to improve technologically. While no single approach is sufficient, renewable energy provides a scalable foundation that other strategies can build upon."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Critically evaluate the evidence supporting the theory that human activities are the primary cause of current global warming. What are the strengths and limitations of this evidence?",
+    "answer": "The evidence supporting human-caused global warming is robust, based on multiple converging lines: rising greenhouse gas concentrations with isotopic signatures matching fossil fuels, unprecedented warming rates, climate models that only match observations when including human factors, and physical understanding of the greenhouse effect. Strengths include the consistency across independent evidence types, confirmed predictions, and overwhelming scientific consensus. Limitations include the complexity of the climate system, ongoing natural variability, some uncertainty in climate sensitivity measurements, and regional prediction challenges. Overall, while some uncertainties exist in specific details, the fundamental conclusion that human activities are the primary driver of current warming is supported by comprehensive, consistent evidence."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Assess the ethical implications of using CRISPR gene editing technology in human embryos. Is the potential benefit worth the risks? Support your evaluation with scientific evidence.",
+    "answer": "CRISPR gene editing in human embryos presents significant ethical challenges. While it offers potential to eliminate heritable diseases like cystic fibrosis and Huntington's, scientific evidence shows risks including off-target mutations (0.1-1% rate), mosaicism, and unknown long-term effects. Current technology isn't precise enough for safe clinical use, as demonstrated by the controversial He Jiankui case. Additionally, germline modifications affect future generations without consent and raise concerns about eugenics and social inequality. The potential benefits don't yet outweigh the risks given our limited understanding of the human genome and the irreversible nature of germline modifications."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the scientific validity of using animal models to predict human responses in pharmaceutical drug development. What are the strengths and limitations of this approach?",
+    "answer": "Animal models have scientific validity but with important limitations. Strengths include biological similarities to humans, controlled experimental conditions, and ability to observe whole-system responses. However, limitations include species-specific differences in drug metabolism, poor translation rates to human outcomes (often below 30%), inability to fully model complex human diseases, and genetic homogeneity of test animals versus diverse human populations. While animal testing remains a regulatory requirement and has contributed to many medical advances, its predictive value varies widely by therapeutic area and compound class."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Compare and contrast two competing theories explaining the origin of consciousness in humans. Which theory do you find more convincing based on current neuroscientific evidence, and why?",
+    "answer": "Global Workspace Theory (GWT) proposes consciousness emerges when information is broadcast across brain networks, while Integrated Information Theory (IIT) suggests consciousness arises from complex information integration measured by phi (\u03a6). GWT is supported by neuroimaging showing widespread activation during conscious perception, especially in prefrontal-parietal networks. IIT offers mathematical precision and explains why information-rich but less-integrated brain regions like the cerebellum contribute minimally to consciousness. Based on current evidence, GWT appears more convincing as it has stronger empirical support from direct experiments, though both theories likely capture important aspects of consciousness."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a hypothetical experiment to test the effectiveness of a new antibiotic against antibiotic-resistant bacteria. Include your hypothesis, key variables, control measures, and how you would analyze the results.",
+    "answer": "Hypothesis: The new antibiotic will inhibit growth of antibiotic-resistant bacteria more effectively than existing antibiotics.\n\nExperiment design:\n- Culture antibiotic-resistant bacterial strains in lab conditions\n- Test groups: varying concentrations of new antibiotic\n- Control groups: standard antibiotics (positive control) and no antibiotics (negative control)\n- Variables: antibiotic concentration (independent), bacterial growth inhibition (dependent)\n- Controls: standardized temperature, medium composition, and incubation time\n\nMeasurement: Compare inhibition zones in plate cultures and minimum inhibitory concentrations (MIC) in broth dilution tests.\n\nAnalysis: Use statistical tests (ANOVA, t-tests) to compare effectiveness between groups and determine if differences are significant (p<0.05)."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a novel renewable energy system that could be implemented on a college campus. Explain the scientific principles behind your design, the materials and components needed, and how you would measure its efficiency and environmental impact.",
+    "answer": "I propose a \"Tri-Source Campus Energy System\" combining solar canopies over walkways, piezoelectric tiles in high-traffic areas, and rainwater harvesting with micro-turbines. The solar component uses the photovoltaic effect to convert sunlight to electricity, piezoelectric tiles generate power from student foot traffic through mechanical stress conversion, and the rainwater system captures gravitational potential energy while conserving water. Materials needed include bifacial solar panels, weather-resistant piezoelectric tiles, water collection infrastructure, battery storage systems, and a smart energy management system. Efficiency would be measured through real-time monitoring comparing energy output to campus baseline consumption, calculating carbon offset, and tracking water conservation. Environmental impact assessment would include lifecycle analysis of materials and quantifying ecosystem services provided."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Propose a theoretical model to explain how climate change might affect biodiversity in coral reef ecosystems over the next century. Include key biological and environmental factors, potential feedback mechanisms, and how you would test your model with real-world data.",
+    "answer": "A theoretical model for climate change impacts on coral reef biodiversity would incorporate three interconnected components: 1) Physical stressors (ocean warming, acidification, sea level rise) that trigger 2) Biological responses (coral bleaching, reduced calcification, altered reproduction) leading to 3) Ecosystem restructuring (phase shifts from coral to algal dominance, loss of habitat complexity, trophic cascades). Key feedback mechanisms include declining structural complexity reducing biodiversity refugia, and shifts in microbial communities affecting coral health. The model would be tested using a combination of long-term monitoring across climate gradients, controlled mesocosm experiments, genetic analysis to detect adaptation, and remote sensing to track large-scale changes over time."
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a research proposal to investigate the potential applications of CRISPR gene editing technology in treating a specific genetic disorder of your choice. Include your research question, methodology, ethical considerations, and how you would evaluate the success of your approach.",
+    "answer": "Research Proposal: CRISPR Treatment for Cystic Fibrosis\n\nResearch Question: Can CRISPR-Cas9 gene editing effectively and safely correct CFTR mutations in airway epithelial cells to restore chloride channel function in cystic fibrosis patients?\n\nMethodology:\n1. In vitro phase: Edit patient-derived airway epithelial cells using CRISPR-Cas9 to correct common CFTR mutations, then assess chloride transport function\n2. Animal model phase: Test optimized CRISPR delivery systems in CF mouse models via aerosolized lipid nanoparticles\n3. Clinical phase: Conduct a dose-escalation safety trial in adult CF patients, followed by efficacy assessment\n\nEthical Considerations:\n- Limited to somatic cell editing (no germline modifications)\n- Comprehensive off-target effect screening\n- Informed consent with clear risk communication\n- Equitable patient selection and future access planning\n- Independent ethics committee oversight\n\nSuccess Evaluation:\n- Molecular: CFTR gene correction rates >50%\n- Cellular: Restored chloride transport in edited cells\n- Clinical: Improved lung function (FEV1), reduced infection rates, and enhanced quality of life measures\n- Safety: Monitoring for immune responses, off-target effects, and long-term complications"
+  },
+  {
+    "topic": "science",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Develop a theoretical framework for how quantum computing could be applied to solve a complex problem in your field of scientific study. Explain the quantum principles involved, how your approach differs from classical computing methods, and what technological hurdles would need to be overcome for practical implementation.",
+    "answer": "Quantum computing could revolutionize drug discovery by efficiently simulating molecular interactions using quantum principles like superposition and entanglement. While classical computers struggle with exponential complexity in modeling quantum systems, quantum computers could directly simulate molecular behavior by mapping quantum states to qubits. This approach would enable more accurate prediction of drug-protein interactions and accelerate candidate screening. Key technological hurdles include increasing qubit coherence times, reducing error rates, and developing specialized quantum algorithms for chemical simulations."
+  }
+]

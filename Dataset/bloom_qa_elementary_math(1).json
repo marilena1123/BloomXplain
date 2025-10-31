@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is 7 + 8?",
+    "answer": "15"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of a shape with 3 sides?",
+    "answer": "Triangle"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the product of 6 \u00d7 4?",
+    "answer": "24"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of a shape with 4 equal sides?",
+    "answer": "A rhombus, or if all angles are 90 degrees, a square."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the value of the digit 5 in the number 253?",
+    "answer": "50"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain why multiplication can be thought of as repeated addition. Give an example to support your explanation.",
+    "answer": "Multiplication can be thought of as repeated addition because it's adding the same number multiple times. For example, 5 \u00d7 3 equals 15, which is the same as adding 5 three times: 5 + 5 + 5 = 15."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "In your own words, explain what a fraction represents and provide an example of how we use fractions in everyday life.",
+    "answer": "A fraction represents a part of a whole, showing how many parts we have (numerator) out of the total equal parts (denominator). In everyday life, we use fractions when cooking, like measuring 1/2 cup of flour in a recipe."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain how place value works in our number system. Why does the digit 5 mean different things in the numbers 25, 52, and 500?",
+    "answer": "In our base-10 number system, each position represents a power of 10, with the rightmost digit representing ones, the next tens, then hundreds, and so on. The digit 5 means different things because its place value changes: in 25, it's 5 ones (5); in 52, it's 5 tens (50); and in 500, it's 5 hundreds (500)."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Describe the difference between perimeter and area. How would you explain these concepts to a friend using a rectangle as an example?",
+    "answer": "Perimeter is the distance around a shape (measured in linear units), while area is the space inside a shape (measured in square units). For a rectangle, if it's 5m long and 3m wide, the perimeter would be 16m (adding all four sides: 5+3+5+3), like measuring the fence needed around a garden. The area would be 15m\u00b2 (5\u00d73), like measuring how much carpet you'd need to cover the floor."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain why we sometimes need to regroup (or \"borrow\") when subtracting numbers. Use an example like 43 - 25 to show your understanding.",
+    "answer": "Regrouping is needed when the digit being subtracted in a place value is larger than the digit we're subtracting from. In 43 - 25, we can't subtract 5 from 3, so we borrow 1 from the tens place (4), making it 3 tens and 13 ones. Then we calculate 13 - 5 = 8 ones, and 3 - 2 = 1 ten, giving us 18."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you have 24 cookies and want to share them equally among 6 friends, how many cookies will each friend receive?",
+    "answer": "4 cookies"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "Sam is building a rectangular garden that is 4 feet wide and 7 feet long. How many square feet of fencing will he need to go around the entire garden?",
+    "answer": "22 feet"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "Maria wants to buy 3 notebooks that cost $2.50 each and 2 pencils that cost $0.75 each. How much money will she need altogether?",
+    "answer": "$9.00"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "A class is planning a field trip to the zoo. If the bus can hold 30 students and there are 78 students going on the trip, how many buses will they need?",
+    "answer": "3 buses"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "The school cafeteria is making fruit salad. If they need 3 cups of fruit for every 5 students and there are 35 students in the class, how many cups of fruit will they need in total?",
+    "answer": "21 cups"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Look at the number pattern: 2, 4, 6, 8, 10. What do you notice about these numbers? How are they related to each other?",
+    "answer": "These are all even numbers. Each number increases by 2 from the previous one, forming an arithmetic sequence with a common difference of 2. They are the first five multiples of 2, expressed as 2n where n = 1, 2, 3, 4, 5."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "What is the relationship between the sides of a square and its perimeter? If you know the length of one side, how can you figure out the perimeter?",
+    "answer": "The perimeter of a square equals 4 times the length of one side. If you know the side length s, the perimeter P = 4s."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Look at these shapes: a triangle with 3 sides, a square with 4 sides, a pentagon with 5 sides, and a hexagon with 6 sides. What pattern do you notice about the number of sides and the name of each shape?",
+    "answer": "The names of the shapes use Greek numerical prefixes that match their number of sides, followed by \"-gon\" (meaning angle): tri- (3), quad- (4, though \"square\" is a special name), penta- (5), and hexa- (6)."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "If you have coins worth 5 cents, 10 cents, and 25 cents, what patterns do you notice about the different ways you can make 50 cents using these coins?",
+    "answer": "The patterns include: when using only one coin type, you need 10 five-cent coins, 5 ten-cent coins, or 2 twenty-five-cent coins; when mixing coin types, the number of five-cent coins must be even when combined with ten-cent coins; and combinations with more twenty-five-cent coins generally require fewer total coins to reach 50 cents."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Look at these addition problems: 2+3=5, 4+5=9, 6+7=13, 8+9=17. What pattern do you notice about adding consecutive numbers? Can you predict what 10+11 will equal?",
+    "answer": "The pattern is that the sum of two consecutive integers equals twice the first number plus 1. So 10+11 will equal 21."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Is 7 + 8 = 16 correct? Explain why or why not.",
+    "answer": "No, 7 + 8 = 16 is not correct. The correct sum of 7 + 8 is 15."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Decide which strategy is more efficient for solving 8 \u00d7 12: breaking it down into 8 \u00d7 10 + 8 \u00d7 2, or using repeated addition. Explain your choice with reasons.",
+    "answer": "Breaking down 8 \u00d7 12 into 8 \u00d7 10 + 8 \u00d7 2 is more efficient because it requires fewer calculations (just 3 operations vs 11 additions), uses the distributive property strategically, and leverages the simplicity of multiplying by 10."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Sarah says that all rectangles are squares. Do you agree or disagree with her statement? Justify your answer with examples.",
+    "answer": "I disagree with Sarah's statement. While all squares are rectangles, not all rectangles are squares. A rectangle must have four right angles and opposite sides of equal length, while a square must have four right angles and all sides of equal length. For example, a rectangle with length 5 and width 3 is not a square because its sides are not all equal."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Max claims that 1/4 is larger than 1/3 because 4 is larger than 3. Is Max correct? Explain your reasoning using a drawing or example.",
+    "answer": "No, Max is incorrect. The fraction 1/3 is actually larger than 1/4. When a fraction has a larger denominator, each piece is smaller. If you divide a pie into 3 equal parts (1/3), each piece is larger than if you divided it into 4 equal parts (1/4)."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Two students measured the perimeter of the same rectangle. Emma got 24 inches and Jacob got 26 inches. Whose measurement do you think is correct if the rectangle measures 6 inches by 7 inches? Explain how you determined your answer.",
+    "answer": "Jacob's measurement of 26 inches is correct. The perimeter of a rectangle is calculated as 2 \u00d7 (length + width), so for a 6-inch by 7-inch rectangle, the perimeter is 2 \u00d7 (6 + 7) = 2 \u00d7 13 = 26 inches."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Create your own math word problem that uses addition and subtraction of numbers up to 100, and explain how to solve it.",
+    "answer": "Problem: A school library starts with 45 books on Monday. On Tuesday, they receive a donation of 28 new books. On Wednesday, 13 books are checked out and not returned by the end of the week. How many books does the library have at the end of the week?\n\nSolution: Start with the initial number of books (45), add the donated books (28), then subtract the checked-out books (13).\n45 + 28 = 73 books after the donation\n73 - 13 = 60 books at the end of the week\n\nTherefore, the library has 60 books at the end of the week."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design a shape pattern using squares, triangles, and circles that follows a rule you create. Explain your pattern rule and draw what the next two shapes in your pattern would look like.",
+    "answer": "Pattern rule: The shapes alternate in the sequence square \u2192 triangle \u2192 circle, repeating indefinitely.\n\nThe first three shapes in the pattern are: square, triangle, circle.\nThe next two shapes would be: square, triangle.\n\nThis pattern creates a simple repeating sequence where every 3rd shape is the same."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Invent your own measurement system for your bedroom. What units will you use to measure length? What will you name these units? Create at least three different-sized units and explain how they relate to each other.",
+    "answer": "My bedroom measurement system uses three units:\n\n1. Pillow (smallest unit): 1 pillow equals approximately 20 inches or the length of a standard bed pillow.\n\n2. Blanket (medium unit): 1 blanket equals 5 pillows, or about 100 inches, representing the length of a typical blanket.\n\n3. Mattress (largest unit): 1 mattress equals 2 blankets or 10 pillows, approximately 200 inches, based on the length of a king-size mattress.\n\nConversion: 1 mattress = 2 blankets = 10 pillows"
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Create a board game that helps players practice multiplication facts. Describe the rules, how players move around the board, and how a player wins the game.",
+    "answer": "\"Multiplication Race\" is a board game with a winding path from start to finish. Players roll two dice, multiply the numbers, and move that many spaces. Special squares require answering multiplication flash cards to earn bonus moves. Landing on \"Challenge\" squares lets players quiz opponents - correct answers earn extra turns while wrong answers lose a turn. \"Shortcut\" squares let players skip ahead by solving more difficult multiplication problems. The first player to reach the finish line wins. For younger players, a multiplication chart can be provided as a learning aid."
+  },
+  {
+    "topic": "mathematics",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design your own math puzzle using fractions. Include at least three different fractions and create clues that will help someone solve your puzzle. Draw a picture to represent your puzzle.",
+    "answer": "Puzzle: \"The Pizza Mystery\"\n\nThree friends (Alex, Bailey, and Casey) share a pizza. Alex eats 1/4 of the pizza, Bailey eats 1/3 of what remains, and Casey eats 1/2 of what's left after Bailey. \n\nClues:\n1. First calculate how much pizza remains after Alex eats 1/4\n2. Then find what fraction of the original pizza Bailey eats\n3. Finally, determine Casey's portion of the original pizza\n4. What fraction of the original pizza remains uneaten?\n\nPicture representation: A circle divided into sections showing the original pizza, with colored portions representing what each person ate (1/4 for Alex, then 1/3 of the remainder for Bailey, then 1/2 of what's left for Casey), and the remaining slice showing what's uneaten."
+  }
+]

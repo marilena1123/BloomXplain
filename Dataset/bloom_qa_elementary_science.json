@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What are the four main parts of a plant?",
+    "answer": "Roots, stem, leaves, and flowers (or reproductive structures)."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What are the three states of matter?",
+    "answer": "Solid, liquid, and gas."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "Name the planets in our solar system in order from closest to farthest from the Sun.",
+    "answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune"
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What are the five main senses that humans use to observe the world?",
+    "answer": "Sight, hearing, touch, smell, and taste."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What are the four seasons of the year?",
+    "answer": "Spring, Summer, Autumn (Fall), and Winter."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain why plants need sunlight to grow.",
+    "answer": "Plants need sunlight for photosynthesis, the process where they convert light energy into chemical energy (glucose) that fuels their growth and development."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "In your own words, explain how the water cycle works.",
+    "answer": "The water cycle is a continuous process where water moves between Earth's surface and atmosphere. It begins when the sun heats water in oceans, lakes, and rivers, causing evaporation into water vapor. Plants also release water vapor through transpiration. As this vapor rises and cools, it condenses into clouds. When water droplets in clouds become heavy enough, they fall as precipitation (rain, snow, etc.). This water then either collects in bodies of water, runs off into streams and rivers, or seeps into the ground as groundwater. The cycle then repeats, continuously recycling Earth's water supply."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Describe what happens to food after we eat it.",
+    "answer": "After eating, food travels through the digestive system: it's broken down by enzymes in the mouth, moves down the esophagus to the stomach where acids further break it down, continues to the small intestine where nutrients are absorbed into the bloodstream, and finally reaches the large intestine where water is absorbed and waste is formed for elimination."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain why some objects float in water while others sink.",
+    "answer": "Objects float when their density is less than water's density, as the buoyant force exceeds or equals their weight. Objects sink when their density is greater than water's, as their weight overcomes the buoyant force."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain why we experience different seasons throughout the year.",
+    "answer": "Seasons occur because Earth's axis is tilted at 23.5 degrees relative to its orbital plane. As Earth orbits the sun, different hemispheres receive varying amounts of direct sunlight throughout the year. When one hemisphere is tilted toward the sun, it experiences summer with more direct sunlight and longer days, while the opposite hemisphere experiences winter. The tilt remains constant throughout the orbit, causing the cyclical pattern of seasons."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you place a plant in a dark closet for a week, what will happen to it and why?",
+    "answer": "The plant will begin to wither, turn pale or yellow, and may develop weak, spindly growth as it searches for light. This occurs because without light, the plant cannot perform photosynthesis to produce energy, forcing it to rely on stored reserves until they're depleted."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you have an ice cube and leave it on the kitchen counter, what will happen to it and why?",
+    "answer": "The ice cube will melt because the room temperature is higher than the melting point of ice (0\u00b0C), causing heat transfer from the environment to the ice, which breaks the hydrogen bonds in the solid structure."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you mix oil and water in a cup, what will happen and why?",
+    "answer": "Oil and water will separate into two distinct layers with oil floating on top of water. This occurs because oil is non-polar and less dense than water, while water is polar, creating a molecular incompatibility between the two liquids."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you put a magnet near different objects in your classroom (like paper clips, wooden blocks, and rubber erasers), which objects will be attracted to the magnet and why?",
+    "answer": "Paper clips will be attracted to the magnet because they're made of steel, which contains iron. Wooden blocks and rubber erasers won't be attracted because they don't contain ferromagnetic materials like iron, nickel, or cobalt. Magnets only attract objects containing these specific metals."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you blow up a balloon and put it in the freezer for an hour, what will happen to the balloon and why?",
+    "answer": "The balloon will shrink because cold temperatures reduce the kinetic energy of gas molecules, causing them to move slower and exert less pressure on the balloon walls."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Compare how plants and animals get their food. What are the main differences?",
+    "answer": "Plants are autotrophs that produce their own food through photosynthesis using sunlight, water, and carbon dioxide, while animals are heterotrophs that must consume other organisms. Plants remain stationary and absorb nutrients from soil through roots, whereas animals can move to find and consume food, digesting it internally."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "What happens to the water cycle when the weather gets warmer? Compare what happens to water in summer versus winter.",
+    "answer": "In warmer weather, the water cycle accelerates as higher temperatures increase evaporation rates, putting more water vapor into the atmosphere. Summer typically features faster evaporation, higher humidity, and rain-based precipitation. In winter, the cycle slows down with reduced evaporation, lower humidity, and precipitation often falling as snow or ice, temporarily storing water in solid form until temperatures rise again."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "How are the bones in a bird's wing similar to and different from the bones in your arm? What does this tell us about how different animals are related?",
+    "answer": "Bird wing bones and human arm bones share the same basic structure (humerus, radius, ulna, and modified hand bones), demonstrating they are homologous structures. The differences lie in specialization: bird bones are hollow and lightweight with fused hand bones for flight, while human bones are denser with separate, dexterous fingers for manipulation. These similarities indicate birds and humans share a common vertebrate ancestor, while the differences show how evolution has adapted these structures for different functions through natural selection."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Compare how different types of rocks are formed. What patterns do you notice about the conditions needed to create each type?",
+    "answer": "Igneous rocks form from cooling magma/lava, requiring high temperatures. Sedimentary rocks form from compacted sediments under low temperature and pressure, typically involving water. Metamorphic rocks form when existing rocks undergo heat and pressure changes. The pattern shows that temperature and pressure are the key variables determining rock formation, with water acting as an important catalyst in sedimentary processes."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "What are the differences between how solids, liquids, and gases behave when put into different containers? What does this tell us about their particles?",
+    "answer": "Solids maintain their shape regardless of container, indicating tightly packed particles with strong intermolecular forces. Liquids take the container's shape but maintain volume, showing particles that can move past each other with moderate intermolecular forces. Gases fill containers completely and are compressible, revealing widely spaced particles with weak forces that move freely."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Do you think recycling is important for our environment? Explain why or why not using what you know about waste and pollution.",
+    "answer": "Yes, recycling is important for our environment because it conserves natural resources, reduces energy consumption, decreases landfill waste, minimizes pollution, and helps combat climate change by lowering greenhouse gas emissions. By reusing materials instead of extracting and processing new ones, we reduce environmental damage from mining, logging, and manufacturing while preventing waste from contaminating ecosystems."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Is the claim \"Plants need only water to grow\" correct? Judge this statement and explain your answer using evidence from what you've learned about plants.",
+    "answer": "No, the claim is incorrect. While water is essential, plants also require sunlight for photosynthesis, carbon dioxide from air, various nutrients from soil (like nitrogen, phosphorus, and potassium), oxygen for root respiration, and appropriate temperatures to grow properly."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Which material would be better for keeping ice cream frozen longer: a paper container or a metal container? Explain your choice using what you know about heat transfer.",
+    "answer": "A paper container would keep ice cream frozen longer because paper is a thermal insulator that slows heat transfer from the environment to the ice cream, while metal is a good thermal conductor that would quickly transfer heat to the ice cream, causing faster melting."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Do you think all animals should be kept as pets? Support your opinion with evidence about animal needs and habitats.",
+    "answer": "No, not all animals should be kept as pets. Many species require specific habitats, diets, and social structures that can't be provided in domestic settings. For example, large predators need vast territories, marine mammals require ocean environments, and many exotic species have specialized nutritional needs. Animals that haven't undergone domestication often experience stress in captivity, leading to physical and psychological problems. Additionally, the exotic pet trade threatens wild populations and ecosystems. Only animals adapted to domestic life through generations of selective breeding, like dogs and cats, generally thrive as pets."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Is the Sun the largest star in the universe? Judge this claim and support your answer with facts you've learned about our solar system and stars.",
+    "answer": "No, the Sun is not the largest star in the universe. While the Sun is massive compared to planets, it's actually a medium-sized star. Many stars like UY Scuti, VY Canis Majoris, and Betelgeuse are hundreds or even thousands of times larger than our Sun in radius."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design a model of a new animal that could survive in the desert. What special features would it have to help it live in hot, dry conditions?",
+    "answer": "My desert animal model would have large ears to dissipate heat, light-colored fur to reflect sunlight, and specialized kidneys that produce highly concentrated urine to conserve water. It would be nocturnal to avoid daytime heat, with specialized eyelids to protect against sand and sun. The animal would have water storage capability in specialized tissues (similar to a camel's hump) and a metabolic system that can extract water from seeds and plants. For food, it would be an opportunistic omnivore with efficient digestion. Its feet would have protective pads for hot sand, and it would have the ability to enter a state of torpor during extremely harsh conditions to conserve energy and water."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design a simple experiment to show how plants need sunlight to grow. What materials would you need and what steps would you follow?",
+    "answer": "Materials: 6 identical small plants or seedlings, 6 identical pots, potting soil, water, ruler, notebook, pencil, dark box or closet.\n\nSteps:\n1. Plant all seedlings in identical pots with the same amount of soil.\n2. Label 3 pots \"Sunlight\" and 3 pots \"No Sunlight\" for multiple trials.\n3. Place the \"Sunlight\" pots near a window with good light.\n4. Place the \"No Sunlight\" pots in a dark box or closet.\n5. Water all plants with the same amount of water on the same schedule.\n6. Measure and record the height of each plant every 3-4 days for 2-3 weeks.\n7. Take notes on leaf color, size, and overall plant health.\n8. Compare the growth and appearance of plants from both groups to see how sunlight affected their development."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Create a poster that shows the water cycle and explain how you would design a system to collect rainwater for your school garden.",
+    "answer": "For a water cycle poster, I'd include illustrations of evaporation from oceans, condensation forming clouds, precipitation as rain/snow, and water returning to oceans via rivers. For the rainwater collection system, I'd install gutters on school roofs connected to downspouts leading to storage tanks. These tanks would have filters to remove debris, a first-flush diverter to eliminate initial contaminated water, and a tap system to connect to drip irrigation for the garden."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design a new type of weather instrument that could help predict when it will rain. Draw your design and explain how it would work.",
+    "answer": "I propose the \"PrecipPredictor\" - a multi-sensor weather station that combines:\n- A barometric pressure sensor that detects subtle pressure drops\n- A hygrometer for humidity tracking\n- An infrared sky scanner to analyze cloud density and height\n- Temperature sensors at multiple heights\n- Wind direction and speed sensors\n\nThe device would wirelessly transmit data to a processing unit that applies machine learning algorithms to analyze patterns preceding rainfall events. The system would improve its prediction accuracy over time as it collects more local weather data, accounting for regional weather patterns specific to its location. A smartphone app would provide probability-based rain forecasts with increasing accuracy the longer the system operates in a specific area."
+  },
+  {
+    "topic": "science",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Imagine you are designing a spaceship to visit another planet in our solar system. Draw your spaceship and explain what special features it would need to protect astronauts during the journey.",
+    "answer": "My interplanetary spacecraft would be cylindrical with multiple rotating sections to create artificial gravity, preventing muscle and bone deterioration. Key protective features include:\n\n1. Radiation shielding using water tanks and polyethylene layers surrounding crew quarters\n2. Closed-loop life support systems that recycle water and oxygen\n3. A hydroponic garden for fresh food and psychological benefits\n4. Thick outer hull with Whipple shields to protect against micrometeoroid impacts\n5. Solar panels and nuclear power generator for reliable energy\n6. Medical facilities with 3D printing capabilities for emergency treatments\n7. Multiple redundant systems for critical functions\n8. Thermal regulation using radiator panels and multi-layer insulation\n9. Communication arrays for maintaining contact with Earth\n10. Dedicated private spaces for each crew member to maintain mental health during the long journey"
+  }
+]

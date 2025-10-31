@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the chemical formula for water?",
+    "answer": "H\u2082O"
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What are the three laws of motion proposed by Sir Isaac Newton?",
+    "answer": "Newton's three laws of motion are: 1) An object at rest stays at rest and an object in motion stays in motion unless acted upon by an external force (Law of Inertia), 2) Force equals mass times acceleration (F=ma), and 3) For every action, there is an equal and opposite reaction."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the periodic table symbol for the element gold?",
+    "answer": "Au"
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What are the four nitrogenous bases found in DNA?",
+    "answer": "Adenine, thymine, guanine, and cytosine."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of photosynthesis?",
+    "answer": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy, using carbon dioxide and water to produce glucose and oxygen."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how the greenhouse effect contributes to climate change.",
+    "answer": "The greenhouse effect contributes to climate change when human activities increase greenhouse gas concentrations in the atmosphere. These gases trap heat that would otherwise escape to space, causing global temperatures to rise and disrupting climate patterns worldwide."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the relationship between DNA, genes, and chromosomes in your own words.",
+    "answer": "DNA is the fundamental genetic molecule containing instructions for cell function. Genes are specific segments of DNA that code for particular traits or proteins. Chromosomes are larger structures that package and organize DNA, containing many genes. Think of chromosomes as filing cabinets, DNA as the files inside, and genes as specific documents within those files."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Describe how the periodic table is organized and what this organization tells us about the properties of elements.",
+    "answer": "The periodic table organizes elements by increasing atomic number in rows (periods) and by similar chemical properties in columns (groups). Elements in the same group have the same number of valence electrons, giving them similar chemical behavior. The table is divided into metals (left), nonmetals (right), and metalloids (between them). This arrangement reveals periodic trends in properties like atomic radius, electronegativity, and ionization energy, allowing scientists to predict element characteristics based on position."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how the processes of photosynthesis and cellular respiration are related to each other.",
+    "answer": "Photosynthesis and cellular respiration function as complementary processes in nature's energy cycle. Photosynthesis captures solar energy to convert carbon dioxide and water into glucose and oxygen, while cellular respiration uses that glucose and oxygen to release energy, producing carbon dioxide and water as byproducts. The outputs of one process serve as the inputs for the other, creating a sustainable cycle that powers life on Earth."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the difference between a physical and chemical change and provide an example of each.",
+    "answer": "A physical change alters a substance's appearance without changing its chemical composition (reversible), like ice melting into water. A chemical change transforms substances into new materials with different properties (often irreversible), like wood burning to create ash and gases."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "Using your knowledge of density and buoyancy, explain why a steel ship can float on water even though steel itself is denser than water.",
+    "answer": "A steel ship floats because its hollow design creates a large volume of space filled with air, making the average density of the entire vessel less than that of water. While steel itself is denser than water (7.8 g/cm\u00b3 vs. 1 g/cm\u00b3), the ship's shape allows it to displace a weight of water greater than its own weight, creating sufficient buoyant force to float according to Archimedes' principle."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "Apply your understanding of Newton's laws of motion to explain why wearing a seatbelt in a car can prevent serious injury during a sudden stop.",
+    "answer": "Seatbelts prevent serious injury during sudden stops by counteracting Newton's First Law of Inertia. When a car stops abruptly, passengers naturally continue moving forward at the same speed. The seatbelt provides the external force needed to stop the body, distributing this force across stronger parts of the torso and extending the stopping time, which reduces the overall force experienced according to Newton's Second Law (F=ma)."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "Apply the principles of heat transfer to explain why metal feels colder than wood at room temperature even though both objects are actually the same temperature.",
+    "answer": "Metal feels colder than wood at room temperature because metal has higher thermal conductivity, allowing it to transfer heat away from your skin much faster than wood does. This rapid heat transfer, not the actual temperature of the objects, is what our thermal receptors detect as \"coldness.\""
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "Apply the concept of acid-base neutralization to explain how antacids work to relieve heartburn.",
+    "answer": "Antacids relieve heartburn through acid-base neutralization. When excess stomach acid (HCl) causes heartburn, antacids containing bases like calcium carbonate or magnesium hydroxide chemically react with the acid. This neutralization reaction converts the irritating acid into water and harmless salts, raising the pH and alleviating the burning sensation in the esophagus."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "Apply your knowledge of photosynthesis to explain why leaves change color in the fall.",
+    "answer": "Leaves change color in fall because trees stop producing chlorophyll (the green pigment) as they prepare for winter dormancy. As chlorophyll breaks down, it reveals yellow and orange carotenoid pigments that were always present but masked. Some trees also produce new red anthocyanin pigments in response to autumn conditions. This color change marks the end of photosynthesis for the season as trees conserve resources."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between temperature and the rate of a chemical reaction. What patterns can you identify and explain the underlying principles causing these patterns?",
+    "answer": "As temperature increases, chemical reaction rates increase exponentially, not linearly. This occurs because higher temperatures increase both the frequency of molecular collisions and the proportion of molecules with sufficient energy to overcome the activation energy barrier. According to the Arrhenius equation (k = A\u00b7e^(-Ea/RT)), even small temperature increases significantly raise the reaction rate constant. This explains why biological reactions require enzymes to lower activation energy, and why cooling preserves food by slowing reaction rates."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Examine the data from a local ecosystem showing population changes of predator and prey species over time. What relationships do you observe between these populations, and what ecological principles explain these patterns?",
+    "answer": "Predator and prey populations typically display cyclical patterns with the prey cycle preceding the predator cycle. When prey increases, predators soon follow due to increased food availability. As predators increase, they reduce prey numbers, eventually causing predator decline due to food scarcity, allowing prey to recover. This demonstrates the Lotka-Volterra model, density-dependent regulation, and the balance maintained through natural feedback mechanisms in ecosystems."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare the structure of plant and animal cells. What do their structural differences reveal about their different functions in living organisms?",
+    "answer": "Plant cells have rigid cell walls, chloroplasts for photosynthesis, and large central vacuoles, while animal cells have flexible membranes without walls, no chloroplasts, and small/multiple vacuoles. These differences reflect plants' need for structural support and self-feeding capability versus animals' need for cellular flexibility, movement, and heterotrophic nutrition."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between atmospheric pressure and weather patterns. What factors influence these patterns and how do they interact?",
+    "answer": "Atmospheric pressure and weather patterns are intimately connected, with high pressure typically bringing clear conditions and low pressure bringing storms. These patterns are influenced by temperature (warm air rises creating low pressure), Earth's rotation (Coriolis effect), topography, solar radiation, and moisture content. These factors interact through complex mechanisms: pressure differences create winds, the Earth's rotation deflects these winds, and temperature variations drive global circulation cells. Ocean-atmosphere interactions like El Ni\u00f1o further modify these patterns, creating feedback loops that can amplify or diminish weather systems. The interplay between these elements ultimately determines local weather conditions and contributes to larger climate patterns."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the patterns in the periodic table. How do the properties of elements relate to their position in the table?",
+    "answer": "Elements in the periodic table are arranged by increasing atomic number, with properties following periodic patterns. Elements in the same column (group) have similar chemical properties due to identical valence electron configurations. Moving across a period, properties change gradually as electron shells fill. Key trends include decreasing atomic radius across periods, increasing ionization energy, and increasing electronegativity. These patterns reflect electron structure, allowing scientists to predict chemical behavior based on an element's position."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the claim that nuclear energy is the most environmentally friendly energy source. Support your evaluation with scientific evidence.",
+    "answer": "Nuclear energy is among the most environmentally friendly energy sources in terms of greenhouse gas emissions (12g CO2/kWh, comparable to wind), but calling it \"the most\" environmentally friendly is not supported by evidence. While nuclear provides reliable baseload power with a small land footprint, it faces challenges including uranium mining impacts, long-term waste storage requirements, and water usage. Solar and wind power have similar or lower carbon footprints without generating radioactive waste, though they require more land and face intermittency issues. The most environmentally friendly energy solution likely involves a mix of low-carbon sources rather than any single technology."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Assess the effectiveness of different methods for preventing the spread of infectious diseases. Which method do you think is most effective and why?",
+    "answer": "Vaccination is most effective because it provides long-term protection, prevents infection before exposure occurs, and creates community-wide protection through herd immunity. Unlike behavioral interventions that require constant compliance, vaccines provide lasting immunity and have historically succeeded in eradicating or significantly reducing many deadly diseases."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Critique the theory that global warming is primarily caused by human activities. What evidence supports or challenges this theory?",
+    "answer": "The theory of human-caused global warming is supported by multiple lines of evidence: rising CO2 levels that match human emissions patterns, isotopic evidence linking CO2 increase to fossil fuels, temperature records showing unprecedented warming rates, and climate models that can only explain observed patterns when human factors are included. Challenges include arguments about natural climate cycles, solar activity variations, and measurement uncertainties, but these alternative explanations fail to account for the full range of observed climate changes. The scientific consensus strongly supports human activities as the primary driver of current global warming."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the benefits and risks of using genetically modified organisms (GMOs) in agriculture. Is their use justified based on current scientific evidence?",
+    "answer": "GMOs offer significant benefits including increased crop yields, reduced pesticide use, enhanced nutrition, and climate resilience. Risks include potential environmental impacts, biodiversity concerns, and socioeconomic issues related to corporate control. Current scientific consensus from major organizations indicates GMO foods are safe for consumption, though environmental monitoring remains important. Their use appears justified when properly regulated, especially considering global food security challenges, but context-specific assessment is necessary as benefits and risks vary by application."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Compare and contrast renewable and non-renewable energy sources in terms of environmental impact and sustainability. Which would you recommend for future energy development and why?",
+    "answer": "Renewable energy sources (solar, wind, hydro) have minimal environmental impact and are infinitely sustainable, while non-renewable sources (fossil fuels, nuclear) create significant pollution and will eventually deplete. I recommend prioritizing renewable energy development because it offers long-term sustainability, decreasing costs over time, and dramatically reduced environmental impacts, though a mixed approach may be needed during transition to ensure reliability."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a hypothetical ecosystem that could survive on Mars, taking into account the planet's environmental conditions such as atmosphere, temperature, and gravity. Include at least three different organisms and explain how they would interact with each other.",
+    "answer": "A sustainable Mars ecosystem would require a protected habitat (dome or underground) with three key organisms: (1) Genetically modified cyanobacteria that photosynthesize using Mars' CO2 and produce oxygen; (2) Extremophile fungi that decompose organic matter and help process Martian soil; and (3) Enhanced tardigrades that consume both bacteria and fungi. The cyanobacteria would be primary producers, creating oxygen and organic compounds. The fungi would break down dead material, recycling nutrients back to the system. The tardigrades would complete the food chain by consuming the other organisms and helping with their dispersal. This simple ecosystem creates a functional nutrient cycle adapted to Mars' low gravity, extreme cold, high radiation, and limited water resources."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Develop a new renewable energy solution that could be implemented in your local community. Explain how it works, what materials would be needed, and how it would address specific energy challenges in your area.",
+    "answer": "A community solar microgrid with battery storage would be an effective renewable solution. It works by installing solar panels on available rooftops and community spaces, connected to a shared battery system. Required materials include photovoltaic panels, inverters, battery storage units, smart meters, and control systems. This addresses energy resilience during outages, reduces carbon emissions, and lowers electricity costs through shared ownership and net metering, while creating local jobs during installation and maintenance."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Create a model to demonstrate how climate change might affect a specific biome over the next 50 years. Include predictions for changes in temperature, precipitation, biodiversity, and human impact.",
+    "answer": "Model for Tropical Rainforest Biome (2023-2073):\n\nTemperature: 2-5\u00b0C increase, with more frequent extreme heat events disrupting sensitive ecosystems.\n\nPrecipitation: 10-20% decrease in annual rainfall with intensified wet/dry seasonality causing alternating floods and droughts.\n\nBiodiversity: 20-30% potential species loss due to habitat fragmentation, temperature sensitivity, and disrupted ecological relationships. Particular threats to amphibians, specialized insects, and canopy-dwelling species.\n\nHuman Impact: Indigenous communities will face challenges to traditional forest-based livelihoods, agricultural systems will require adaptation, increased wildfire threats to settlements, water security issues during extended dry seasons, and emergence of new disease vectors in changing climate conditions."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design an experiment to test the effectiveness of different natural water filtration methods. Explain what materials you would use, your testing procedures, and how you would measure and compare the results.",
+    "answer": "Experiment design: Create five identical transparent containers with different natural filtration systems\u2014sand, activated charcoal, layered gravel, aquatic plants, and a combination system with multiple layers. Prepare contaminated water with measured amounts of sediment, organic matter, and safe indicator bacteria. Pour equal amounts through each system and collect filtered samples. Measure water quality using turbidity meters, pH strips, bacterial culture tests, and chemical analysis kits. Compare results by creating a scoring system based on: clarity improvement (0-5 points), contaminant reduction (0-5 points), filtration speed (0-3 points), and sustainability (0-2 points). Run three trials for statistical validity and include an unfiltered control sample for baseline comparison."
+  },
+  {
+    "topic": "science",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a theoretical medical device that could detect early signs of disease using non-invasive methods. Explain the scientific principles it would use, how it would function, and what advantages it might have over current diagnostic tools.",
+    "answer": "I propose a \"BreathScan AI\" device that analyzes exhaled breath using nanoscale sensors to detect disease biomarkers. The device would use an array of chemical sensors to identify volatile organic compounds (VOCs) in breath that indicate cellular and metabolic changes occurring before clinical symptoms appear. It would operate on principles of gas chromatography and mass spectrometry miniaturized into a handheld device, combined with machine learning algorithms that recognize disease-specific patterns. The patient would simply breathe into the device for 30 seconds, and AI would compare the breath profile against databases of known disease signatures. This device would offer several advantages: it's completely painless, provides immediate results, detects diseases at pre-symptomatic stages, allows for frequent monitoring without risk, and could be used in home settings for continuous health tracking. Unlike current blood tests or imaging, it requires no radiation, needles, or specialized facilities, making it more accessible and potentially more cost-effective for population-wide screening."
+  }
+]

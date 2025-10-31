@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the device you use to click on things on a computer screen?",
+    "answer": "Mouse"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the main part of a computer called where all the information is stored?",
+    "answer": "Hard drive (or solid-state drive/SSD)"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the button you press to turn a computer on or off?",
+    "answer": "Power button"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the device that allows you to type letters and numbers into a computer?",
+    "answer": "Keyboard"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Remembering",
+    "question": "What is the name for the type of message you send to someone using the internet?",
+    "answer": "Email"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "In your own words, explain what the internet is and how people use it.",
+    "answer": "The internet is a worldwide network of connected computers that share information using standardized communication methods. People use it to communicate through email and social media, access information via websites, enjoy entertainment through streaming services, shop online, learn through educational resources, and work remotely using cloud-based tools."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Describe the difference between a smartphone and a tablet computer.",
+    "answer": "Smartphones are smaller, pocket-sized devices primarily designed for communication with cellular capabilities, while tablets have larger screens (7-13 inches) better suited for content consumption and productivity tasks. Smartphones prioritize portability and one-handed use, whereas tablets offer more screen real estate for reading, watching videos, and creative work."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain why it's important to be careful about sharing personal information online.",
+    "answer": "Being careful about sharing personal information online is crucial because once shared, it's difficult to remove and can lead to identity theft, financial fraud, cyberstalking, and targeted scams. Personal data can be collected, stored, and sold without your knowledge, potentially affecting your privacy, security, and future opportunities like employment."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain how a computer keyboard helps us communicate with a computer.",
+    "answer": "A keyboard helps us communicate with a computer by converting our physical key presses into electrical signals that the computer can understand. When we press keys, the keyboard translates these actions into digital codes that tell the computer which characters to display or which commands to execute, allowing us to input text, control programs, and navigate interfaces."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Understanding",
+    "question": "Explain how technology has changed the way we learn in school compared to how your parents or grandparents learned.",
+    "answer": "Technology has transformed education from the analog experience of previous generations to today's digital learning environment. While our parents and grandparents relied on physical textbooks, encyclopedias, and libraries, students today access vast information instantly online. Modern classrooms feature interactive smartboards, tablets, and educational apps instead of chalkboards and overhead projectors. Learning has become more visual and interactive through videos, simulations, and digital resources. Communication between teachers, students, and parents now happens through email, messaging apps, and online platforms rather than just face-to-face meetings. Technology has also enabled remote learning options and personalized education experiences that weren't possible before."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "How would you use a search engine to find information about dinosaurs for your science project?",
+    "answer": "I would start with specific keywords like \"dinosaur species\" or \"dinosaur extinction,\" use quotation marks for exact phrases, filter for credible sources like museum websites and educational institutions (.edu domains), use search tools to find recent information or images, and cross-reference information from multiple reliable sources to ensure accuracy for my science project."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "If you wanted to share a digital drawing with your classmates, what technology tool would you use and how would you use it?",
+    "answer": "I would use Google Drive to upload my digital drawing as a JPG or PNG file, then share the link with my classmates through our class email list or learning management system. Alternatively, if we use Google Classroom, I could post the drawing directly as an attachment to share it with everyone at once."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "How could you use a digital camera or tablet to document the stages of a plant growing from a seed?",
+    "answer": "Take daily photos at the same time from a fixed position, using a tripod or stand to maintain consistency. Include a ruler in the frame to show scale. Create a time-lapse video or digital journal with dated entries showing growth stages. Document additional observations like height measurements, leaf count, and environmental conditions in a digital spreadsheet. Compile everything into a multimedia presentation or digital portfolio showing the complete growth cycle."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "How would you use a calculator to solve a math problem that involves adding the prices of three items you want to buy at a store?",
+    "answer": "Enter the price of the first item, press the \"+\" button, enter the price of the second item, press \"+\" again, enter the price of the third item, and press \"=\" to get the total cost."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Applying",
+    "question": "How could you use email to communicate with a pen pal from another country?",
+    "answer": "To use email with an international pen pal, I would first obtain their email address through a pen pal program or language exchange website. I could send regular messages sharing details about my life, culture, and including photos as attachments. Email allows for instant communication regardless of time zones, costs nothing, and creates a searchable record of our conversations. I could use translation tools if needed and eventually suggest video calls as our friendship develops."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Compare a tablet and a laptop computer. What are two similarities and two differences between them?",
+    "answer": "Similarities: Both tablets and laptops are portable computing devices that can connect to the internet, and both can run various applications for productivity and entertainment. Differences: Tablets are typically smaller with touchscreens and no built-in keyboard, while laptops have more processing power and greater expandability with more ports and hardware options."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "Look at these different technology tools: smartphone, calculator, and digital camera. How are they similar and different in what they can do?",
+    "answer": "All three are electronic devices with screens and digital processing capabilities. However, smartphones are multi-functional devices that combine features of both calculators and cameras, plus communication and internet access. Calculators are specialized for mathematical operations but lack photography and communication features. Digital cameras excel at taking high-quality photos but typically lack the computational versatility of calculators and the connectivity of smartphones."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "What parts of a computer work together to help you play a video game? Identify at least three components and explain how they connect to each other.",
+    "answer": "Three essential components for playing video games are: 1) The CPU, which processes game logic, physics, and AI; 2) The GPU, which renders graphics and visual effects; and 3) RAM, which stores game data for quick access. These components connect through the motherboard\u2014the CPU processes game instructions and sends rendering tasks to the GPU, while both access game data from RAM for smooth gameplay."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "What happens inside a computer when you click on an icon? Break down the steps in order.",
+    "answer": "When you click an icon: 1) The mouse sends an electrical signal to the computer. 2) The operating system detects the click coordinates. 3) The system identifies which icon was clicked. 4) The OS generates a click event. 5) The system determines what program or action is associated with the icon. 6) The computer allocates necessary resources (memory, CPU). 7) The program associated with the icon is loaded and executed. 8) Visual feedback is displayed to confirm the action."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Analyzing",
+    "question": "How do the different parts of a robot work together to help it move and do tasks? Draw a diagram showing the connections.",
+    "answer": "Robots function through an integrated system where components work together in a feedback loop. The power supply energizes all parts. The controller (CPU) acts as the brain, processing sensor data about the environment and making decisions. Based on these decisions, it sends electrical signals to actuators (motors) that create physical movement in joints and wheels. End effectors (grippers, tools) attached to the robot's extremities interact with objects. All these components communicate through internal wiring and software protocols.\n\nI cannot create an actual diagram in this format, but a proper diagram would show:\n- Power supply connecting to all components\n- Sensors sending data to the controller\n- Controller sending commands to actuators\n- Actuators connecting to mechanical parts and end effectors\n- Feedback loops where sensor data reflects the results of movements"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Do you think using tablets instead of books in school is a good idea? Give reasons why or why not.",
+    "answer": "Using tablets instead of books in school has both benefits and drawbacks. Benefits include easier content updates, reduced physical burden on students, interactive learning features, and environmental advantages. However, concerns include increased screen time, potential distractions, digital equity issues, technical problems, and possibly reduced reading comprehension. The best approach likely involves a balanced combination of digital and traditional resources based on educational goals and student needs."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Is it better to use a computer or paper and pencil for doing your homework? Explain your answer with at least two reasons.",
+    "answer": "The better choice depends on the type of homework and personal learning style. Computers offer advantages like easier editing, access to online resources, and development of digital skills necessary for modern workplaces. However, paper and pencil can be beneficial because handwriting has been shown to improve information retention and eliminates digital distractions that might affect focus. The ideal approach often combines both methods depending on the specific task."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Which is more helpful for learning: educational videos or educational games? Explain your choice with examples.",
+    "answer": "Neither is universally \"more helpful\" as they serve different learning needs. Videos excel at clear explanations and demonstrations (like Khan Academy's math tutorials), while games provide active engagement and immediate feedback (like Duolingo for languages). The most effective approach combines both: videos to introduce concepts and games to practice application, accommodating diverse learning styles and maintaining motivation."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Do you think it's better to have robots or human teachers in the classroom? Give at least two reasons to support your opinion.",
+    "answer": "Human teachers are better for classrooms because they provide emotional connection and empathy that helps students feel supported and motivated to learn. Additionally, human teachers can adapt their teaching methods spontaneously based on students' reactions and needs in ways that robots cannot currently match."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Evaluating",
+    "question": "Is it a good idea for kids your age to have their own cell phones? Explain your opinion with at least two reasons.",
+    "answer": "Whether children should have cell phones depends on several factors. Cell phones can provide safety by allowing kids to contact parents in emergencies and help develop responsibility. However, they can also lead to screen addiction and exposure to inappropriate content. The decision should be based on the child's maturity level and family circumstances."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design a simple app that would help kids remember to do their chores at home. Draw a picture of what it would look like and explain how it would work.",
+    "answer": "The \"ChoreChamps\" app would feature a colorful home screen with cartoon animal avatars that kids can choose as their \"chore buddy.\" The main interface would show a house with different rooms, each containing clickable chore icons. Kids earn stars for completed chores, which fill a progress bar toward rewards parents set. The app sends friendly reminders with their avatar character, allows parents to verify completion through photos, and includes a family leaderboard to encourage siblings. The simple, gamified design makes chores feel like achievements rather than obligations."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Imagine you could invent a new technology tool to help students learn to read better. Draw your invention and explain what special features it would have.",
+    "answer": "I'd invent the \"ReadBuddy\" - an interactive tablet with AI capabilities that adapts to individual reading levels. Features would include: text-to-speech functionality, interactive storytelling with 3D animations, personalized reading exercises, real-time pronunciation feedback, gamified reading challenges, and a vocabulary builder that creates visual associations for new words. The device would also have a parent/teacher dashboard to track progress and identify areas needing improvement."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Create a poster showing how you would design a robot that could help keep your classroom clean. What tasks would it do and what special features would it have?",
+    "answer": "The \"ClassroomClean 3000\" robot would feature a compact circular design with extendable arms for reaching high places. Tasks would include sweeping floors, collecting paper scraps, sanitizing surfaces, organizing books, and emptying pencil sharpeners. Special features would include UV sanitization, voice recognition to respond to spill alerts, a detachable mini-vacuum for desk cleaning, a water reservoir for liquid messes, and programmable cleaning schedules. The robot would operate quietly during class and perform deeper cleaning after school hours."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Design a wearable technology device that could help elementary school students stay safe during recess or field trips. Draw your design and explain what it would do.",
+    "answer": "SafeBand: A colorful, watch-like wristband with GPS tracking, emergency alert button, and health monitoring features. The device would include:\n\n1. Location tracking that connects to a teacher's monitoring app to ensure students stay within designated areas\n2. Panic button that alerts teachers to emergencies\n3. Basic health monitoring (heart rate, fall detection)\n4. Digital ID with student information and medical alerts\n5. Customizable, fun designs with cartoon characters\n6. Durable, water-resistant construction\n7. Long battery life (1 week per charge)\n8. Group proximity alerts that notify teachers if a student wanders too far\n\nThe SafeBand would help teachers quickly locate students, respond to emergencies, and ensure no child gets separated during field trips."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "elementary school",
+    "bloom_level": "Creating",
+    "question": "Imagine you could create a new type of computer keyboard for children your age. Design what it would look like, what special features it would have, and explain how it would be better than regular keyboards.",
+    "answer": "My children's keyboard would feature colorful, larger keys with rounded edges arranged in a slight curve to fit smaller hands naturally. It would include dedicated emoji buttons, programmable shortcut keys for educational apps, and a spill-resistant design. Special features would include backlit keys that change colors when learning typing, built-in games that teach typing skills, and interchangeable key covers with different themes. This keyboard improves upon regular keyboards by being more durable, having simplified layouts for beginners, and incorporating learning tools directly into the hardware."
+  }
+]

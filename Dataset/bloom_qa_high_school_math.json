@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the formula for the slope of a line given two points (x\u2081, y\u2081) and (x\u2082, y\u2082)?",
+    "answer": "m = (y\u2082 - y\u2081) / (x\u2082 - x\u2081)"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the quadratic formula used to solve equations in the form ax\u00b2 + bx + c = 0?",
+    "answer": "x = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / (2a)"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the formula for finding the area of a circle?",
+    "answer": "A = \u03c0r\u00b2"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the Pythagorean theorem used to find in a right triangle?",
+    "answer": "The relationship between the sides of a right triangle, allowing calculation of the hypotenuse length or the length of a missing leg."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of a logarithm?",
+    "answer": "A logarithm is the exponent to which a base must be raised to yield a given number. If log_b(x) = y, then b^y = x."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of slope in a linear equation and how it relates to the graph of the line.",
+    "answer": "Slope in a linear equation represents the rate of change between variables, calculated as rise over run. On a graph, it determines the steepness and direction of the line\u2014positive slopes rise from left to right, negative slopes fall, zero slopes create horizontal lines, and undefined slopes create vertical lines."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how the Pythagorean theorem relates to the distance formula in the coordinate plane.",
+    "answer": "The distance formula is a direct application of the Pythagorean theorem. When finding the distance between two points in a coordinate plane, we create a right triangle where the horizontal and vertical distances form the legs, and the direct distance forms the hypotenuse. The formula d = \u221a[(x\u2082 - x\u2081)\u00b2 + (y\u2082 - y\u2081)\u00b2] is derived from a\u00b2 + b\u00b2 = c\u00b2."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the difference between permutations and combinations and provide an example of when you would use each in solving a probability problem.",
+    "answer": "Permutations are arrangements where order matters (formula: P(n,r) = n!/(n-r)!), while combinations are selections where order doesn't matter (formula: C(n,r) = n!/[r!(n-r)!]). You'd use permutations when calculating possible arrangements for a race with 1st, 2nd, and 3rd place winners from 8 runners. You'd use combinations when determining ways to select 3 books from 12 books to take on vacation, regardless of reading order."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the meaning of a negative exponent and how it differs from a positive exponent when simplifying expressions.",
+    "answer": "A negative exponent indicates a reciprocal relationship: x^(-n) = 1/(x^n). While positive exponents show repeated multiplication (x^n = x \u00d7 x \u00d7 ... n times), negative exponents tell us to divide by the base raised to that power. When simplifying expressions, the same rules apply to both: add exponents when multiplying terms with the same base, and subtract exponents when dividing them."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of a function and how to determine if a relation is a function using the vertical line test.",
+    "answer": "A function is a relation where each input has exactly one output. To determine if a relation is a function using the vertical line test, draw vertical lines through the graph. If any vertical line intersects the graph more than once, it's not a function because one input value would have multiple outputs."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "A contractor is building a rectangular deck with a length of 15 feet and a width of 10 feet. If the deck material costs $8 per square foot, how much will the materials for the deck cost?",
+    "answer": "$1,200"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "A city planner needs to determine the amount of fencing needed for a triangular community garden. If the sides of the garden measure 24 meters, 30 meters, and 18 meters, how many meters of fencing will be required to enclose the entire garden?",
+    "answer": "72 meters"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "A car travels at a constant speed of 65 miles per hour. How far will it travel in 3.5 hours?",
+    "answer": "227.5 miles"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "A pharmacist needs to dilute a solution that is 70% alcohol to create a solution that is 35% alcohol. If the pharmacist needs 500 mL of the 35% solution, how much of the 70% solution and how much water should be mixed together?",
+    "answer": "250 mL of 70% alcohol solution and 250 mL of water."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "A company manufactures cylindrical water bottles with a radius of 3 centimeters and a height of 20 centimeters. How many cubic centimeters of water can each bottle hold?",
+    "answer": "565.5 cubic centimeters"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "What is the relationship between the slope of a line and its perpendicular line?",
+    "answer": "The slopes of perpendicular lines are negative reciprocals of each other. If one line has slope m, a perpendicular line will have slope -1/m."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the graph of the quadratic function f(x) = x\u00b2 + 4x + 3 and explain how the values of a, b, and c in the standard form ax\u00b2 + bx + c affect its shape, direction, and position.",
+    "answer": "For f(x) = x\u00b2 + 4x + 3, the coefficient a=1 makes the parabola open upward with standard width. The coefficient b=4 shifts the axis of symmetry to x=-2, and c=3 places the y-intercept at (0,3). The vertex is at (-2,-1), and the parabola crosses the x-axis at (-3,0) and (-1,0). In general, 'a' determines direction and steepness, 'b' affects horizontal positioning, and 'c' adjusts vertical positioning."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Examine the pattern in the sequence 2, 6, 12, 20, 30, ... and determine the formula for the nth term. Explain your reasoning.",
+    "answer": "The formula for the nth term is n\u00b2+n. This was determined by analyzing the differences between consecutive terms, which form an arithmetic sequence with a common difference of 2, indicating a quadratic formula."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between the area and perimeter of a rectangle. If the perimeter is fixed at 20 units, what dimensions would give the maximum area and why?",
+    "answer": "A square with sides of 5 units each gives the maximum area of 25 square units. This occurs because a square is the most efficient shape for enclosing area with a given perimeter."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare and contrast the properties of logarithmic and exponential functions. How are their graphs related?",
+    "answer": "Exponential functions (a^x) have all real numbers as their domain and positive real numbers as their range, while logarithmic functions (log_a(x)) have positive real numbers as their domain and all real numbers as their range. Exponential functions grow rapidly, while logarithmic functions grow slowly. Their graphs are reflections of each other across the line y = x because they are inverse functions\u2014if (x,y) is on the exponential graph, then (y,x) is on the logarithmic graph."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Critique the following solution to the quadratic equation x\u00b2 - 6x + 8 = 0:\n\"Using the quadratic formula, x = (-b \u00b1 \u221a(b\u00b2 - 4ac))/2a, where a=1, b=-6, c=8.\nx = (6 \u00b1 \u221a(36 - 32))/2\nx = (6 \u00b1 \u221a4)/2\nx = (6 \u00b1 2)/2\nx = 4 or x = 2\"\nIs this solution correct? Justify your evaluation.",
+    "answer": "Yes, the solution is correct. The work properly applies the quadratic formula with a=1, b=-6, c=8, and accurately calculates the discriminant (36-32=4). The arithmetic is correct throughout, resulting in the two solutions x=4 and x=2, which both satisfy the original equation when substituted back."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "A student claims that the graph of y = 2x\u00b2 - 4x + 5 has its minimum value at x = 1. Evaluate whether this claim is correct, and justify your reasoning with appropriate mathematical evidence.",
+    "answer": "The student's claim is correct. The minimum value of y = 2x\u00b2 - 4x + 5 occurs at x = 1, which can be verified by finding where the derivative equals zero and confirming the second derivative is positive."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Two students are calculating the area of a circle with radius 4 cm. Student A says the area is 16\u03c0 cm\u00b2, while Student B says it's 8\u03c0 cm\u00b2. Evaluate both answers and determine which student is correct, providing mathematical justification for your conclusion.",
+    "answer": "Student A is correct. The area of a circle is calculated using the formula \u03c0r\u00b2, which gives 16\u03c0 cm\u00b2 when the radius is 4 cm."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate whether the statement \"If two triangles have the same area, they must be similar\" is true or false. Justify your answer with mathematical reasoning and provide a counterexample if applicable.",
+    "answer": "False. Two triangles with equal areas are not necessarily similar. For example, a triangle with base 4 and height 6 has the same area (12 square units) as a triangle with base 3 and height 8, but they have different angles and side proportions, making them not similar."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Examine the following proof that claims to show all isosceles triangles have at least two equal angles:\n\n\"Let triangle ABC be isosceles with AB = AC.\nDraw the bisector of angle A to point D on BC.\nThis creates two triangles: ABD and ACD.\nSince AB = AC and AD is common to both triangles, and angle BAD = angle CAD (by definition of angle bisector),\nTherefore, triangles ABD and ACD are congruent by SAS.\nThus, angle ABD = angle ACD, which means angles B and C are equal.\"\n\nIs this proof valid? Evaluate its logical structure and justify your assessment.",
+    "answer": "Yes, the proof is valid. It correctly uses the Side-Angle-Side (SAS) congruence criterion to show triangles ABD and ACD are congruent, which logically leads to the conclusion that angles B and C are equal."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Create a real-world scenario where you would need to use both linear and quadratic functions to model and solve a problem.",
+    "answer": "A small bakery sells custom cakes. Their revenue follows a linear function where they earn $25 per cake sold. However, their profit follows a quadratic function because of efficiency gains with batch production and increased overhead at higher volumes. The profit can be modeled as P(x) = -0.5x\u00b2 + 20x - 100, where x is the number of cakes. The bakery needs to determine how many cakes to produce to maximize profit while also calculating their expected revenue at that production level."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a game that incorporates probability concepts and explain how players could use mathematical strategies to increase their chances of winning.",
+    "answer": "\"Probability Peaks\" - A game where players roll three dice each turn to climb a mountain. Players choose which dice to keep and which to reroll (up to 2 rerolls per turn). Different dice combinations represent different climbing routes with varying point values. Players can use probability strategies by calculating expected values of rerolls, understanding the probability distributions of dice combinations, and making risk-reward assessments based on their position compared to opponents. Mathematical advantage comes from knowing when to take risks (rerolling decent numbers) versus when to play conservatively based on probability calculations and the changing game state."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Develop a mathematical model to determine the optimal dimensions of a rectangular box with a fixed surface area that would maximize its volume.",
+    "answer": "For a rectangular box with fixed surface area S, the optimal shape is a cube with dimensions l = w = h = \u221a(S/6), where S is the total surface area. This configuration maximizes the volume."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Create a new method for solving a system of three linear equations in three variables that differs from substitution, elimination, or matrix methods, and explain why your approach works.",
+    "answer": "Geometric Projection Method: Visualize each equation as a plane in 3D space. Start with any point and project it perpendicularly onto the first plane, then project that result onto the second plane, then onto the third plane. Repeat this cycle until the point stops moving significantly. This works because each projection minimizes the distance to a plane while maintaining the constraints of previously considered planes, gradually converging to the intersection point of all three planes. Unlike traditional methods, this approach is iterative and has a clear geometric interpretation, making it more intuitive for spatial thinkers."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a city planning project that uses geometric principles to create an efficient traffic flow system, and explain how you would use trigonometry and coordinate geometry to optimize the layout.",
+    "answer": "I would design a hybrid system combining grid and radial patterns, using coordinate geometry to map population centers and traffic demand. Trigonometry would optimize road intersection angles (120\u00b0 where possible to reduce collision points) and calculate proper banking on curves based on design speeds. I'd implement roundabouts at major intersections, using geometric calculations to determine optimal radii and entry angles. For traffic signals, I'd use coordinate mapping and mathematical modeling to create synchronized \"green waves\" along major corridors. The system would prioritize public transportation routes calculated using shortest-path algorithms while maintaining adequate coverage of population centers."
+  }
+]

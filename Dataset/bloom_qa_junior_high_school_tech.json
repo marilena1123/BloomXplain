@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What does the acronym \"URL\" stand for in web browsing?",
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the main function of a CPU in a computer?",
+    "answer": "The main function of a CPU is to process instructions and data, executing the basic operations that allow computer programs to run."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the storage device that uses flash memory to store data permanently?",
+    "answer": "Solid State Drive (SSD)"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the purpose of an operating system in a computer?",
+    "answer": "An operating system manages computer hardware and software resources, provides common services for programs, and serves as the interface between users and the computer hardware."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the technology that allows devices to connect wirelessly to the internet?",
+    "answer": "Wi-Fi"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "In your own words, explain how the internet allows people from different parts of the world to communicate with each other.",
+    "answer": "The internet functions as a vast network of connected computers that share information through standardized protocols. When someone in one country sends a message, it's converted to digital data packets that travel through cables, satellites, and servers before reaching the recipient's device anywhere in the world. This global infrastructure supports various communication tools like email, messaging apps, video calls, and social media, allowing instant communication regardless of physical distance or time zones."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Describe the main differences between a smartphone and a regular cell phone, and explain why smartphones have become more popular.",
+    "answer": "Smartphones differ from regular cell phones by featuring advanced operating systems, touchscreens, powerful processors, and the ability to run applications, while regular phones primarily handle calls and texts with physical keypads and limited functionality. Smartphones have become more popular because they combine multiple devices into one (camera, GPS, computer), offer seamless internet connectivity, provide access to vast app ecosystems, and enable social media engagement\u2014essentially functioning as portable computers rather than just communication devices."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how cloud storage works and why it can be more convenient than saving files directly to your device.",
+    "answer": "Cloud storage works by saving files on remote servers accessed via the internet instead of your device's physical storage. It's more convenient because you can access files from any device anywhere, it saves local storage space, enables easy file sharing and collaboration, and provides automatic backups protecting against device failure or loss."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how social media platforms use algorithms to determine what content appears in your feed.",
+    "answer": "Social media algorithms analyze your past behavior (likes, comments, shares, viewing time), social connections, and content characteristics to predict what will keep you engaged. They prioritize content from accounts you interact with frequently and posts similar to ones you've engaged with before. The algorithms also consider overall popularity, recency, and the platform's business interests to create a personalized feed that maximizes your time on the platform."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how computer viruses spread and what basic steps you can take to protect your devices from them.",
+    "answer": "Computer viruses spread through email attachments, downloads from untrusted sources, infected removable media, network connections, and by exploiting software vulnerabilities. To protect your devices, install and update antivirus software, keep your operating system and applications updated, be cautious with email attachments and downloads, use strong passwords, back up your data regularly, and avoid clicking on suspicious links."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you use a spreadsheet to organize and track your weekly allowance spending?",
+    "answer": "Create a spreadsheet with columns for Date, Category, Description, Amount, and Balance. Enter your allowance as the starting balance, then record each purchase with its details. Use formulas to automatically subtract expenses and calculate the remaining balance. Add summary formulas to total spending by category and create a pie chart to visualize where your money goes each week."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you use digital tools to create a presentation about an environmental issue in your community?",
+    "answer": "I would create an environmental presentation using PowerPoint or Google Slides, incorporating local photos, data visualizations, and maps to highlight the issue. I'd research using online resources and government websites, then create charts and infographics to present statistics clearly. I'd include video interviews with community members and experts, and add interactive elements like clickable links to resources. After completion, I'd share it through social media, community websites, and email newsletters to maximize awareness and engagement."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you apply your knowledge of online safety to protect your personal information when creating a new social media account?",
+    "answer": "To protect personal information when creating a social media account, I would use a strong, unique password; enable two-factor authentication; limit the personal details I share in my profile; carefully review and restrict privacy settings; be selective about friend requests; avoid posting sensitive information; use a separate email for social media; be cautious with third-party app connections; and regularly review my privacy settings as platforms update their policies."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you use coding skills to create a simple game that teaches younger students about recycling?",
+    "answer": "I would create a drag-and-drop game where players sort virtual trash items into the correct recycling bins (paper, plastic, glass, compost, landfill). The game would use colorful graphics, immediate feedback (correct sorts earn points, incorrect sorts provide gentle correction), and progressive difficulty levels. I'd code this using Scratch or simple JavaScript, featuring animated characters who explain recycling facts between levels and achievement badges for mastering different materials. This teaches sorting skills, material properties, and environmental responsibility through engaging gameplay."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you use a smartphone's camera and sensors to collect data for a science experiment about light intensity in different areas of your school?",
+    "answer": "Use a light meter app that utilizes the smartphone's ambient light sensor to measure lux values. Create a map of your school and mark specific measurement points in different areas. Hold the phone at consistent height and angle at each location, taking multiple readings at different times of day. Record the data in a spreadsheet with location, time, and light intensity values. Generate heat maps showing light distribution throughout the school and analyze how factors like windows, artificial lighting, and building orientation affect light levels in different spaces."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare and contrast smartphones and tablets. What are the key differences in their design and functionality that make each suitable for different tasks?",
+    "answer": "Smartphones and tablets differ mainly in size and purpose. Smartphones (5-7 inches) prioritize portability, communication features, and better cameras, making them ideal for on-the-go use. Tablets (7-13 inches) offer larger screens for improved media consumption, reading, and productivity tasks. While smartphones excel at quick one-handed interactions and cellular connectivity, tablets provide better battery life and screen real estate for creative work, gaming, and document editing."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze how social media platforms use algorithms to determine what content appears in your feed. What factors might influence these algorithms?",
+    "answer": "Social media algorithms determine feed content by analyzing user behavior data (likes, shares, time spent viewing), personal preferences, social connections, content popularity, recency, and content type. They're also influenced by advertiser relationships, location data, and platform business goals like maximizing engagement and ad revenue. This creates personalized experiences that keep users on the platform longer."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Examine the evolution of video game controllers over the past 20 years. What design changes have occurred and how do these changes reflect advances in technology?",
+    "answer": "Video game controllers have evolved dramatically over the past 20 years, transitioning from primarily wired to wireless designs with improved connectivity. Major innovations include motion controls (Nintendo Wii, PlayStation Move), advanced haptic feedback (PS5's DualSense replacing simple rumble), touchpads and screens, improved ergonomics, and customizable components (Xbox Elite). These changes reflect technological advances in wireless communication, sensor miniaturization, battery efficiency, haptic motors, and materials science, all while making gaming more immersive and accessible."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze how different types of internet connections (Wi-Fi, cellular data, ethernet) affect the performance of online activities. What factors determine which connection type works best for specific tasks?",
+    "answer": "Different internet connections suit various online activities based on their technical properties. Ethernet provides the highest stability and lowest latency, making it ideal for competitive gaming, video conferencing, and large file transfers. Wi-Fi offers good speeds with mobility but can suffer from interference and congestion, suitable for everyday browsing and streaming. Cellular data provides on-the-go access but may have higher latency and data caps, best for mobile activities and backup connectivity. The optimal connection depends on bandwidth requirements, latency sensitivity, stability needs, mobility requirements, and security considerations of the specific task."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the components of a typical computer system. How do these parts work together to perform different tasks?",
+    "answer": "A computer system consists of hardware components (CPU, RAM, storage, motherboard, GPU, power supply, and I/O devices) and software (operating system, applications) working in coordination. The CPU processes instructions while RAM provides temporary storage for active data. Storage devices hold permanent data, and the motherboard connects everything through data buses. When performing tasks, the CPU fetches instructions from RAM, processes them, and sends results to output devices. Input devices allow user interaction, while the operating system manages resources and coordinates operations. This integrated system enables computers to run applications, process information, display media, and communicate with networks."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Is social media more helpful or harmful for junior high school students? Evaluate both sides and support your opinion with specific examples.",
+    "answer": "Social media has benefits for junior high students including educational resources, social connections, and creative outlets. However, it poses significant risks like cyberbullying, mental health issues (anxiety and depression), sleep disruption, and addiction potential. Overall, social media is more harmful than helpful for this age group because their developing brains and social identities make them particularly vulnerable to its negative effects without having fully developed the critical thinking skills to navigate it safely."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Compare two different types of technology devices (such as tablets vs. laptops) and evaluate which would be more useful for completing school assignments. Support your evaluation with specific examples.",
+    "answer": "Laptops are generally more useful for school assignments than tablets because they offer physical keyboards for efficient typing of essays and reports, larger screens for multitasking research, better processing power for specialized software, and greater compatibility with academic programs. While tablets excel at portability and touch-based activities like drawing, laptops provide a more comprehensive toolset for diverse academic tasks such as writing papers, creating presentations, coding, and data analysis."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate whether using digital textbooks is better than using traditional printed textbooks in the classroom. Justify your answer with at least three specific reasons.",
+    "answer": "Digital textbooks offer several advantages over traditional printed textbooks. First, they're more cost-effective, often costing 40-60% less than print versions, making education more affordable. Second, they provide enhanced learning through interactive features like embedded videos, quizzes, and hyperlinks that engage different learning styles. Third, they're environmentally sustainable, eliminating the need for paper production and physical distribution. However, digital textbooks do require reliable technology access and may cause more eye strain during extended reading sessions."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Assess whether video games can be educational tools for learning. Provide specific examples to support your evaluation.",
+    "answer": "Yes, video games can be effective educational tools. Games like Minecraft Education Edition teach coding and design skills, Civilization provides lessons in history and geography, Kerbal Space Program demonstrates physics concepts, and language apps like Duolingo gamify learning. These games increase engagement through interactive experiences, provide immediate feedback, adapt to individual learning paces, and develop problem-solving abilities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate whether using smartphones in the classroom helps or hinders student learning. Provide specific examples to support your position.",
+    "answer": "Smartphones in classrooms have mixed effects on learning. They help by providing instant access to information, educational apps, and collaboration tools. For example, students can use calculators, language translators, and research databases. However, they hinder learning through distractions from notifications and social media, reduced note-taking effectiveness, and opportunities for cheating. The impact largely depends on implementation\u2014structured usage with clear guidelines generally yields better results than unrestricted access."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a simple mobile app that could help students in your school solve a common problem they face. Describe its features and how it would work.",
+    "answer": "StudySync: A student organization app with these key features:\n\n1. Assignment Tracker: Students can input assignments with due dates, priority levels, and course tags. The app automatically sorts tasks by urgency.\n\n2. Smart Calendar: Integrates class schedules, assignment due dates, and study sessions. Color-coded by course for easy visualization.\n\n3. Time Management: Students can block study times and receive notifications when it's time to work on specific assignments based on due dates and estimated completion time.\n\n4. Collaboration Hub: Students can create or join study groups for specific classes, share notes, and coordinate meeting times.\n\n5. Progress Analytics: Visual representations of completed assignments, upcoming deadlines, and study hour targets to help students track their productivity.\n\nThe app would work by having students input their class schedule at the beginning of the semester, then allowing them to add assignments as they're assigned. The interface would be simple with a dashboard showing today's classes and upcoming deadlines, with tabs for the calendar, assignments, and collaboration features."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Create a concept for a new technology device that could help reduce energy usage in homes. Sketch your design and explain how it would work.",
+    "answer": "The \"EcoSync Hub\" is a central smart home device that uses AI to optimize energy usage. It features sensors that monitor temperature, occupancy, and appliance energy consumption throughout the home. The system learns household routines and automatically adjusts heating/cooling, lighting, and appliance usage accordingly. It includes a smartphone app for remote control and provides real-time feedback on energy consumption with suggestions for improvement. The EcoSync Hub could reduce home energy usage by 20-30% by eliminating waste and optimizing systems based on actual needs rather than fixed schedules."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Develop a social media campaign that would raise awareness about cyberbullying among your peers. Include what platforms you would use, what type of content you would create, and how you would measure its effectiveness.",
+    "answer": "I would create a \"#BeKindOnline\" campaign using primarily Instagram, TikTok, and YouTube. Content would include: short videos of real cyberbullying stories and their impact, infographics with statistics and warning signs, weekly challenges promoting positive online behavior, and live Q&A sessions with mental health experts. I'd measure effectiveness through engagement metrics (shares, comments), pre/post campaign surveys measuring attitude changes, tracking of helpline referrals, and monitoring the campaign hashtag usage across platforms."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a wearable technology device that could help students learn a new skill. Describe what the device would look like, how it would function, and what specific learning problem it would solve.",
+    "answer": "I propose the \"LinguaBand,\" a wristband-style wearable device that helps students learn new languages. The device resembles a sleek fitness tracker with a small touchscreen display and built-in speakers and microphones. \n\nThe LinguaBand functions by providing micro-learning opportunities throughout the day. It uses haptic feedback to gently remind students when it's time to practice, and the AI-powered system adapts to the student's schedule and learning pace. The device listens to the user's pronunciation attempts and provides immediate feedback through visual cues and subtle vibrations. It pairs with a smartphone app that tracks progress and provides more comprehensive lessons.\n\nThis device specifically solves the problem of inconsistent language practice and pronunciation feedback. Traditional language learning often fails because students don't practice regularly enough and rarely receive immediate feedback on pronunciation. The LinguaBand creates a continuous learning environment where students can practice speaking in short bursts throughout the day and receive instant feedback on their pronunciation, significantly accelerating language acquisition."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design an eco-friendly charging station for your school that uses renewable energy to charge multiple devices. Explain what materials you would use, how it would generate power, and where it would be located on campus.",
+    "answer": "I would design a solar-powered charging station using recycled aluminum for the frame and reclaimed wood for seating. The station would feature a canopy of solar panels generating approximately 2kW of power, connected to lithium-ion battery storage for continuous operation. Multiple USB ports and standard outlets would be available under a weather-protected overhang. The station would be located in the central courtyard or quad where it receives maximum sunlight while being accessible between classes. LED lighting powered by the same system would allow nighttime use, and an educational display would show real-time energy production data for science classes."
+  }
+]

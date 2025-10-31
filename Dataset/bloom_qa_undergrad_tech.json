@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What does the acronym HTTP stand for in web technology?",
+    "answer": "Hypertext Transfer Protocol"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of an algorithm in computer science?",
+    "answer": "An algorithm is a step-by-step procedure or set of rules designed to perform a specific task or solve a particular problem in a finite number of steps."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the difference between RAM and ROM in computer memory?",
+    "answer": "RAM (Random Access Memory) is volatile, temporary storage that loses data when powered off but allows fast read/write operations for active processing. ROM (Read-Only Memory) is non-volatile, permanent storage that retains data without power and primarily stores essential boot instructions and firmware."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the purpose of a firewall in network security?",
+    "answer": "A firewall monitors and filters network traffic to prevent unauthorized access and protect systems from threats, acting as a barrier between trusted internal networks and untrusted external networks."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What does the acronym API stand for in software development?",
+    "answer": "Application Programming Interface"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of cloud computing and how it differs from traditional on-premises computing infrastructure.",
+    "answer": "Cloud computing delivers computing resources (servers, storage, databases, software) over the internet on a pay-as-you-go basis. Unlike traditional on-premises infrastructure where organizations own and maintain physical hardware in their facilities, cloud computing shifts to a service-based model. Key differences include: cloud uses operational expenditure rather than capital investment; offers rapid scalability without hardware purchases; transfers maintenance responsibility to the provider; enables access from anywhere with internet; and typically provides built-in redundancy and disaster recovery options. This model allows businesses to reduce IT overhead while gaining flexibility and often improved reliability."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of machine learning and how it differs from traditional programming approaches.",
+    "answer": "Machine learning is an approach where algorithms learn patterns from data to make predictions or decisions, rather than following explicitly programmed rules. Unlike traditional programming where developers write specific instructions for every scenario, machine learning systems improve their performance through experience, automatically identifying patterns and adapting to new information. Traditional programming uses a direct input-rules-output approach, while machine learning creates models that generalize from examples, making it particularly valuable for complex problems where explicit rules are difficult to define."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain how blockchain technology works and describe its key characteristics that make it useful for applications beyond cryptocurrency.",
+    "answer": "Blockchain works as a distributed, decentralized ledger that records transactions in linked blocks secured by cryptography. Its key characteristics beyond cryptocurrency include immutability (records cannot be altered once verified), transparency (all participants can view the same information), elimination of intermediaries through consensus mechanisms, smart contract functionality, and enhanced security through decentralization."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of Internet of Things (IoT) and how it enables communication between everyday devices.",
+    "answer": "The Internet of Things (IoT) is a network of physical objects embedded with sensors, software, and connectivity that allows them to collect and exchange data over the internet. IoT enables communication between everyday devices through various wireless protocols like Wi-Fi, Bluetooth, and Zigbee. These connected devices can send and receive information, make decisions based on collected data, and perform actions without human intervention. For example, a smart home system might connect thermostats, lights, security cameras, and appliances, allowing them to coordinate functions and be controlled remotely through smartphone apps."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of virtualization in computing and how it enables more efficient use of hardware resources.",
+    "answer": "Virtualization is a technology that creates virtual versions of computing resources (like servers, storage, or networks) on a single physical hardware system. It enables more efficient hardware utilization by allowing multiple virtual machines to run simultaneously on one physical server, increasing utilization rates from 10-15% to 60-80%. This approach reduces costs, saves energy, improves scalability, and enables faster deployment of resources while maintaining isolation between workloads."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "A company wants to implement a new cybersecurity protocol. How would you apply the principle of defense in depth to protect their network infrastructure?",
+    "answer": "Apply defense in depth by implementing multiple security layers: perimeter protection (firewalls, IDS/IPS), network segmentation, endpoint security, application controls, data encryption, strong authentication (MFA), continuous monitoring, regular patching, security awareness training, and incident response planning. This ensures that if one layer is compromised, others remain to protect critical assets."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "Using object-oriented programming principles, how would you design a software system for an online shopping platform that needs to handle various types of products, user accounts, and shopping cart functionality?",
+    "answer": "I would design the online shopping platform using these key classes:\n\n1. Abstract Product class with common attributes (id, name, price, description) and specialized subclasses (Electronics, Clothing, Books) for type-specific properties.\n\n2. User class with authentication and profile management, extended by Customer and Admin subclasses with different permissions.\n\n3. ShoppingCart class that contains CartItem objects (which link to Products and store quantities), with methods for adding/removing items and calculating totals.\n\n4. Order class to track purchases, linking customers to their selected products, payment status, and shipping details.\n\n5. Payment interface implemented by different payment method classes (CreditCardPayment, PayPalPayment) to process transactions polymorphically.\n\nThe system would use composition for User-ShoppingCart relationships, aggregation for ShoppingCart-CartItem relationships, and implement appropriate design patterns like Factory for product creation and Observer for inventory updates."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "How would you apply database normalization techniques to optimize the performance of a university's student information system that currently experiences slow query responses and data redundancy issues?",
+    "answer": "I would apply database normalization by first analyzing the current schema and identifying redundancies. Then I would implement 1NF to eliminate repeating groups, 2NF to remove partial dependencies, and 3NF to address transitive dependencies. This would involve creating separate tables for students, courses, departments, and instructors with appropriate primary and foreign keys. For many-to-many relationships like student course enrollments, I'd create junction tables. To balance performance, I would strategically denormalize certain frequently accessed data and create indexes on commonly queried fields. This approach would reduce redundancy while maintaining or improving query performance."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "How would you implement a machine learning algorithm to analyze and predict traffic patterns for a smart city initiative?",
+    "answer": "I would implement a machine learning solution by first collecting diverse traffic data (sensors, cameras, GPS, weather, events) and preprocessing it. Then I'd train models like LSTM networks or gradient boosting algorithms to capture temporal patterns. The system would incorporate real-time data streams, provide short and long-term predictions, and continuously improve through feedback loops. The implementation would include a user-friendly dashboard for traffic operators and API integration with existing city systems."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "How would you apply cloud computing concepts to migrate a traditional on-premises business application to a scalable cloud infrastructure?",
+    "answer": "To migrate an on-premises application to cloud infrastructure, I would first assess the application's architecture, dependencies, and compliance requirements. Then, I'd choose an appropriate migration strategy (lift-and-shift, platform modernization, or refactoring), redesign the architecture for scalability by implementing auto-scaling, decoupling components, and ensuring statelessness where possible. I would implement infrastructure-as-code for consistency, set up CI/CD pipelines, and design for fault tolerance across availability zones. For data migration, I'd develop a strategy for transfer and validation while minimizing disruption. Finally, I'd implement comprehensive monitoring, optimize for performance and cost, and plan a phased cutover with rollback capabilities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze how the implementation of blockchain technology has affected traditional banking systems. What specific components of banking infrastructure have been most disrupted?",
+    "answer": "Blockchain technology has most significantly disrupted payment processing systems (particularly cross-border transfers), settlement infrastructure (reducing transaction times from days to minutes), and intermediary verification services. By enabling peer-to-peer transactions with immutable record-keeping, blockchain has challenged banks' traditional roles in providing trust, processing payments, and verifying identities, forcing many institutions to adopt blockchain solutions or risk obsolescence."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Compare and contrast cloud computing architectures (IaaS, PaaS, and SaaS). How do their differences impact application development strategies for organizations?",
+    "answer": "IaaS provides raw infrastructure resources, giving developers full control but requiring them to manage everything from OS up. PaaS offers development platforms with managed infrastructure, allowing developers to focus on code rather than maintenance. SaaS delivers complete applications requiring minimal development work. Organizations with unique requirements and technical expertise often choose IaaS for flexibility, while those prioritizing faster time-to-market select PaaS. Companies seeking standardized solutions with minimal IT overhead typically opt for SaaS. These differences fundamentally shape development strategies by determining resource allocation, required technical skills, development speed, and customization capabilities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between Moore's Law and the evolution of mobile device capabilities over the past decade. What patterns emerge when examining processing power, battery life, and form factor?",
+    "answer": "Following Moore's Law, mobile processing power has grown exponentially with multi-core processors and specialized chips enabling desktop-like performance. However, battery technology has improved only incrementally, creating an imbalance where devices can do much more but face energy constraints. Form factors show a pattern of maximizing screen space while maintaining portability, with bezels shrinking and new designs like foldables emerging. This creates a three-speed evolution: rapid advancement in processing, moderate improvement in physical design, and slower progress in battery technology."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Examine how different network protocols (TCP, UDP, HTTP) handle data transmission differently and analyze how these differences affect application performance in various scenarios.",
+    "answer": "TCP ensures reliable, ordered delivery with flow control but has higher overhead, making it ideal for applications requiring data integrity like file transfers and financial transactions. UDP provides faster transmission with no delivery guarantees, better suited for real-time applications like gaming and streaming where speed outweighs occasional packet loss. HTTP, typically running over TCP, uses a request-response model with evolving versions improving performance\u2014HTTP/2 added multiplexing and compression, while HTTP/3 uses QUIC over UDP for better performance in lossy networks. These differences significantly impact application performance: latency-sensitive applications benefit from UDP or HTTP/3, while data-critical applications require TCP's reliability despite its overhead."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the security vulnerabilities in Internet of Things (IoT) devices and identify patterns in how these weaknesses are exploited by malicious actors.",
+    "answer": "IoT devices commonly suffer from vulnerabilities including default credentials, lack of encryption, outdated software, poor update mechanisms, insecure interfaces, and insufficient authentication. Attackers exploit these weaknesses through predictable patterns: scanning for devices with default passwords to create botnets, intercepting unencrypted data, leveraging known vulnerabilities in outdated firmware, moving laterally through networks after initial compromise, and using compromised devices for DDoS attacks or as entry points to larger networks."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the effectiveness of blockchain technology for securing medical records in healthcare systems. What are the potential benefits and drawbacks compared to traditional database systems?",
+    "answer": "Blockchain offers significant benefits for medical records including immutability, enhanced security, transparent audit trails, and improved patient control over data access. However, it faces substantial challenges including performance limitations, storage inefficiency, high implementation costs, regulatory hurdles, and conflicts with privacy laws requiring data deletion. While promising for specific use cases like access logging and consent management, a hybrid approach combining blockchain with traditional databases may be more practical than full replacement of existing systems."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Critically evaluate the impact of artificial intelligence on job displacement versus job creation in the technology sector. What evidence supports or contradicts the argument that AI will lead to net job losses?",
+    "answer": "Evidence on AI's impact on tech jobs is mixed. While AI automates routine tasks in software development and data analysis, it simultaneously creates new specialized roles like AI engineers and ethics specialists. Historical technological revolutions suggest long-term job creation will likely outpace losses, though with significant transition challenges. The key concern isn't total job numbers but the skills mismatch between eliminated and created positions, requiring substantial workforce retraining. Current evidence doesn't conclusively support net job losses, but indicates significant labor market transformation requiring proactive policy responses."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Assess the ethical implications of facial recognition technology in public surveillance. Is the trade-off between security and privacy justifiable? Support your evaluation with specific examples and evidence.",
+    "answer": "Facial recognition in public surveillance presents a complex ethical trade-off. While it enhances security by identifying criminals and missing persons, it raises serious privacy concerns including non-consensual monitoring and potential misidentification, especially for marginalized groups. The justifiability varies by context\u2014democratic societies typically require stronger safeguards like transparent policies, independent oversight, and strict data protection. Without these guardrails, the technology risks enabling discriminatory practices and suppressing civil liberties, as seen in authoritarian implementations."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the effectiveness of current cybersecurity measures in protecting critical infrastructure from state-sponsored attacks. What evidence suggests these measures are sufficient or insufficient?",
+    "answer": "Current cybersecurity measures for critical infrastructure show significant gaps against state-sponsored attacks. Evidence of insufficiency includes successful breaches like SolarWinds and Colonial Pipeline, widespread legacy system vulnerabilities, and resource asymmetry between attackers and defenders. While improvements exist in information sharing, regulatory frameworks, and investment, the continuing success of sophisticated attacks indicates that defensive measures are not keeping pace with evolving threats."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Compare and contrast cloud computing versus on-premises infrastructure for enterprise applications. Which approach provides better value when considering factors such as scalability, security, cost, and maintenance? Support your evaluation with evidence.",
+    "answer": "Cloud computing generally offers better value for most enterprises due to superior scalability, reduced maintenance burden, and no upfront capital costs. It provides immediate access to enterprise-grade infrastructure with built-in redundancy and security. On-premises infrastructure may be preferable for organizations with stable, predictable workloads, stringent regulatory requirements, or specialized performance needs. The ideal approach for many enterprises is a hybrid model, leveraging cloud for variable workloads and keeping sensitive or specialized applications on-premises."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a mobile application that addresses a specific environmental challenge in your community. Include the app's core features, target users, and how it would collect and utilize data to create measurable impact.",
+    "answer": "\"RecycleRight\" - A mobile app that helps community members properly sort and dispose of waste.\n\nCore Features:\n- Barcode/photo scanning to instantly identify if an item is recyclable locally\n- Interactive waste sorting guide with visual examples\n- Map of drop-off locations for specialized waste (electronics, hazardous materials, etc.)\n- Community cleanup event calendar and volunteer coordination\n- Personal impact dashboard tracking waste diverted from landfills\n- Educational content about local environmental challenges\n\nTarget Users:\n- Environmentally concerned residents who want to improve their recycling habits\n- Schools and educational institutions teaching sustainability\n- Local businesses looking to improve their waste management practices\n- New residents unfamiliar with local recycling guidelines\n\nData Collection & Impact:\n- Anonymous user scanning data to identify commonly confused items\n- Optional waste tracking where users log their recycling and waste habits\n- Partnership with local waste management to correlate app usage with contamination rates\n- Quarterly impact reports showing community-wide improvement in recycling rates\n- Feedback mechanism to continuously improve the app's accuracy and usability"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Develop a prototype for a wearable technology that could help monitor and improve mental health for college students. Describe its functionality, how it would collect and analyze data, and address privacy concerns.",
+    "answer": "The \"MindPulse\" wristband would monitor physiological indicators of mental health including heart rate variability, sleep patterns, and skin conductance to detect stress levels. It would pair with a smartphone app for mood logging and cognitive behavioral therapy exercises.\n\nThe device would collect data continuously but analyze it locally before sending encrypted summaries to a secure cloud platform. Machine learning algorithms would identify patterns correlating physiological signals with self-reported moods, gradually personalizing stress detection and intervention timing.\n\nFor privacy protection, MindPulse would implement opt-in data sharing, local processing of sensitive data, end-to-end encryption, and granular permission controls. Students would own their data with options to delete it permanently, and the system would comply with HIPAA and FERPA regulations while maintaining academic-medical confidentiality boundaries."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design an Internet of Things (IoT) solution that could improve efficiency in a university campus setting. Describe the sensors you would deploy, how data would be collected and processed, and how your system would provide actionable insights to administrators.",
+    "answer": "A comprehensive IoT solution for university efficiency would deploy occupancy sensors in classrooms and study spaces, energy monitors on building systems, environmental sensors for comfort optimization, and Wi-Fi access point data for traffic analysis. Data would be collected through a secure mesh network, with edge computing handling real-time needs and cloud storage for historical analysis. The system would provide administrators with a dashboard showing real-time space utilization, predictive maintenance alerts, automated HVAC and lighting controls based on occupancy, and recommendations for optimal class scheduling based on historical usage patterns. This would reduce energy costs by 15-20%, improve space utilization by identifying underused areas, and enhance student experience through better resource allocation."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a blockchain-based system that could solve a real problem in healthcare data management. Explain the architecture, security features, and how it would improve upon current systems while addressing potential implementation challenges.",
+    "answer": "A blockchain-based healthcare data management system would use a permissioned blockchain where patients, providers, and insurers are verified nodes. The architecture includes a distributed ledger storing encrypted references to medical data (not the data itself), with actual records in secure off-chain storage. Smart contracts would manage consent, automatically granting or revoking access based on patient preferences.\n\nSecurity features include cryptographic verification, immutable audit trails, and zero-knowledge proofs allowing verification without exposing sensitive data. This improves upon current systems by eliminating fragmentation across providers, giving patients control over their complete medical history, preventing unauthorized changes, and enabling secure interoperability between different healthcare systems.\n\nImplementation challenges include scalability limitations, regulatory compliance, integration with legacy systems, and provider adoption. These could be addressed through hybrid blockchain models, regulatory sandboxes, standardized APIs, and demonstrating clear efficiency gains to stakeholders."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design an AI-powered educational platform that could personalize learning experiences for students with different learning styles and abilities. Describe the key technologies you would implement, how the system would adapt to individual learners, and address ethical considerations regarding data collection and algorithmic decision-making.",
+    "answer": "An AI-powered educational platform would use machine learning algorithms to analyze student performance patterns, natural language processing for interactive communication, and computer vision to track engagement. The system would adapt by initially assessing learning preferences through diagnostic tests, then continuously adjusting content difficulty, pacing, and presentation format (visual, auditory, text-based) based on real-time performance data. It would offer multiple pathways through material and provide customized feedback and scaffolding. Ethically, the platform should implement transparent data policies with parental/student consent, use explainable AI algorithms, ensure accessibility for all abilities, regularly audit for bias, and maintain human oversight to prevent over-reliance on automated decisions."
+  }
+]

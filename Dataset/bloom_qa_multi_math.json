@@ -1,0 +1,152 @@
+[
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Remembering",
+      "Understanding"
+    ],
+    "question": "State the quadratic formula and explain why completing the square is used in its derivation.",
+    "answer": "The quadratic formula is x = (-b \u00b1 \u221a(b\u00b2 - 4ac))/(2a) for the equation ax\u00b2 + bx + c = 0. Completing the square is used in its derivation because it transforms the quadratic expression into a perfect square trinomial plus a constant, allowing us to isolate the variable by applying the square root property."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Remembering",
+      "Understanding"
+    ],
+    "question": "Define what a logarithm is and explain how the properties of logarithms relate to the properties of exponents.",
+    "answer": "A logarithm is the inverse function of exponentiation. If b^x = y, then log_b(y) = x. Logarithm properties mirror exponent properties: the product rule (log_b(xy) = log_b(x) + log_b(y)) corresponds to b^(m+n) = b^m \u00d7 b^n; the quotient rule (log_b(x/y) = log_b(x) - log_b(y)) corresponds to b^(m-n) = b^m \u00f7 b^n; and the power rule (log_b(x^n) = n \u00d7 log_b(x)) corresponds to (b^m)^n = b^(m\u00d7n)."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Remembering",
+      "Understanding"
+    ],
+    "question": "Recall the trigonometric identity for sin(A+B) and explain how this identity can be used to find the exact value of sin(75\u00b0).",
+    "answer": "The identity sin(A+B) = sin(A)cos(B) + cos(A)sin(B) can be used to find sin(75\u00b0) by expressing 75\u00b0 as 45\u00b0 + 30\u00b0. Substituting the known values: sin(75\u00b0) = sin(45\u00b0)cos(30\u00b0) + cos(45\u00b0)sin(30\u00b0) = (\u221a2/2)(\u221a3/2) + (\u221a2/2)(1/2) = (\u221a6 + \u221a2)/4."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Understanding",
+      "Applying"
+    ],
+    "question": "A city planner needs to design a rectangular park with an area of 800 square meters. Explain what the quadratic function representing the perimeter of this park would look like in terms of the park's width, and then determine the dimensions that would minimize the amount of fencing needed around the perimeter.",
+    "answer": "The quadratic function representing the perimeter is P(w) = 2w + 1600/w, where w is the width. To minimize the perimeter, the park should be a square with dimensions 28.28 m \u00d7 28.28 m."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Understanding",
+      "Applying"
+    ],
+    "question": "A cellular phone company offers two different plans. Plan A charges $30 per month plus $0.10 per minute of talk time. Plan B charges $50 per month with unlimited talk time. First, explain how to represent the monthly cost of Plan A as a function of minutes used. Then determine how many minutes of talk time would make Plan A and Plan B cost the same amount.",
+    "answer": "The monthly cost of Plan A can be represented as C(x) = 30 + 0.10x, where x is the number of minutes. Plan A and Plan B would cost the same amount at 200 minutes of talk time."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Understanding",
+      "Applying"
+    ],
+    "question": "A water tank has the shape of an inverted cone with height 12 feet and radius 8 feet at the top. Explain what the rate equation represents when water is being drained from the bottom of the tank, and then calculate how fast the water level is dropping when the water is 5 feet deep if water is being drained at a rate of 2 cubic feet per minute.",
+    "answer": "The rate equation represents the relationship between the rate of change of water volume (dV/dt) and the rate of change of water height (dh/dt). When the water is 5 feet deep and draining at 2 cubic feet per minute, the water level is dropping at a rate of 9/(50\u03c0) \u2248 0.057 feet per minute."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Applying",
+      "Analyzing"
+    ],
+    "question": "A town's population has been growing exponentially. In 2010, the population was 15,000, and by 2020, it had increased to 24,000.\n\na) Apply the exponential growth model to find the growth rate constant and write an equation that models the town's population P as a function of time t in years since 2010.\n\nb) Analyze how the doubling time of the population relates to the growth rate you calculated. If this growth rate continues, in what year will the town's population reach 100,000?",
+    "answer": "a) The growth rate constant r = 0.047 (or 4.7% per year). The population model is P(t) = 15,000e^(0.047t), where t is years since 2010.\n\nb) The doubling time is approximately 14.7 years. If growth continues at this rate, the town's population will reach 100,000 in 2051."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Applying",
+      "Analyzing"
+    ],
+    "question": "A construction company needs to build a rectangular storage facility with a perimeter of 100 meters.\n\na) Apply the concept of optimization to find the dimensions (length and width) that would maximize the area of the storage facility. Show your work and explain your approach.\n\nb) Analyze how the area of the rectangle changes as the length increases from 0 to 50 meters. Identify any patterns in this relationship and determine whether the maximum area you found in part (a) is consistent with these patterns.",
+    "answer": "a) To maximize the area of a rectangular facility with a 100-meter perimeter, I'll use calculus. With length l and width w, the perimeter equation gives us w = 50 - l. The area function is A = l \u00d7 w = l(50 - l) = 50l - l\u00b2. Taking the derivative and setting it equal to zero: dA/dl = 50 - 2l = 0, which gives l = 25 meters. The second derivative is -2, confirming this is a maximum. Therefore, the optimal dimensions are 25 meters by 25 meters, creating a square with maximum area of 625 square meters.\n\nb) As length increases from 0 to 50 meters, the area follows a parabolic pattern described by A = 50l - l\u00b2. The area starts at 0 when l = 0, increases until reaching its maximum of 625 square meters when l = 25, then decreases back to 0 when l = 50. This pattern confirms our finding in part (a) that the maximum area occurs exactly at l = 25 meters."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Applying",
+      "Analyzing"
+    ],
+    "question": "A local coffee shop sells two specialty drinks: a latte that requires 8 oz of milk and 2 oz of espresso, and a cappuccino that requires 4 oz of milk and 2 oz of espresso. The shop has 80 oz of milk and 30 oz of espresso available for these specialty drinks each morning.\n\na) Apply linear inequalities to represent the constraints on production. If the shop makes a profit of $3.50 on each latte and $4.25 on each cappuccino, how many of each drink should they make to maximize their profit? Show your work and explain your solution strategy.\n\nb) Analyze how the maximum profit would change if the profit per latte increased to $4.00 while the profit per cappuccino remained the same. Identify the relationship between the profit per item and the optimal production strategy, and explain the mathematical reason behind any changes in the solution.",
+    "answer": "a) The constraints are:\n- Milk: 8x + 4y \u2264 80\n- Espresso: 2x + 2y \u2264 30 (simplifies to x + y \u2264 15)\n- Non-negativity: x \u2265 0, y \u2265"
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Analyzing",
+      "Evaluating"
+    ],
+    "question": "Analyze the different methods for solving the quadratic equation 2x\u00b2 - 5x - 3 = 0 (such as factoring, completing the square, and the quadratic formula). Then evaluate which method is most efficient for this particular equation and justify your choice with mathematical reasoning.",
+    "answer": "Factoring is most efficient for solving 2x\u00b2 - 5x - 3 = 0. The equation factors cleanly as (2x + 1)(x - 3) = 0, yielding x = -1/2 or x = 3 with minimal computational steps. While the quadratic formula always works, it requires more arithmetic operations. Completing the square is least efficient here as it involves multiple steps with fractions."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Analyzing",
+      "Evaluating"
+    ],
+    "question": "Analyze the geometric and algebraic representations of two linear functions f(x) = 2x + 3 and g(x) = -x + 6. Then evaluate which representation (algebraic or geometric) provides the most insight when determining the point of intersection of these functions. Justify your answer with mathematical reasoning.",
+    "answer": "The algebraic representation provides more insight for determining the exact point of intersection. By setting f(x) = g(x), we can solve 2x + 3 = -x + 6 to find x = 1, and then calculate y = 5, giving us the precise intersection point (1, 5). While the geometric representation helps visualize that the lines must intersect (one with positive slope 2, one with negative slope -1), it doesn't yield the exact coordinates without reverting to algebraic methods."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Analyzing",
+      "Evaluating"
+    ],
+    "question": "Analyze the patterns in the first 10 terms of the sequence 1, 4, 9, 16, 25, ... and determine a general formula for the nth term. Then evaluate whether this sequence grows faster than the sequence 2^n for large values of n, providing mathematical justification for your conclusion.",
+    "answer": "The general formula for the nth term of the sequence is n\u00b2. This sequence does not grow faster than 2^n for large values of n. While n\u00b2 grows polynomially, 2^n grows exponentially, which eventually outpaces any polynomial growth. This is proven by the limit of n\u00b2/2^n approaching 0 as n approaches infinity."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Evaluating",
+      "Creating"
+    ],
+    "question": "Two different students have proposed methods for finding the area under a curve between two points. Student A suggests using the trapezoidal rule with 10 subdivisions, while Student B suggests using Simpson's rule with 6 subdivisions. \n\nEvaluate which method would likely yield more accurate results for finding the area under the curve y = x\u00b2 + 3x + 2 from x = 0 to x = 4. Justify your evaluation with mathematical reasoning.\n\nThen, design your own numerical integration method that might be more efficient than both methods for this particular function. Explain your approach and why you believe it would be effective.",
+    "answer": "Simpson's rule (Student B) would yield more accurate results despite having fewer subdivisions. For a quadratic function like y = x\u00b2 + 3x + 2, Simpson's rule actually produces the exact answer with any number of subdivisions because Simpson's rule is exact for polynomials up to degree 3. The trapezoidal rule (Student A) will always have some error for this curve because it approximates the function with straight lines.\n\nFor this particular function, the most efficient method would be direct analytical integration since the antiderivative is straightforward to calculate. By evaluating \u222b(x\u00b2 + 3x + 2)dx from x = 0 to x = 4, we get exactly 160/3 or approximately 53.33, with no numerical approximation error."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Evaluating",
+      "Creating"
+    ],
+    "question": "A city planner wants to design a rectangular community garden with a perimeter of 100 meters.\n\nFirst, evaluate which dimensions (length and width) would maximize the garden's area. Support your answer with mathematical proof.\n\nThen, create an alternative garden design with the same 100-meter perimeter that incorporates multiple geometric shapes (such as circles, triangles, or other polygons). Explain how your design might provide advantages over the optimal rectangle you identified, considering factors like usable planting space, walking paths, or aesthetic appeal.",
+    "answer": "A square garden with sides of 25 meters each will maximize the area to 625 square meters. This can be proven by setting up the area function A = x(50-x) where x is length and 50-x is width (since perimeter = 100m). Taking the derivative and setting it to zero (50-2x=0) gives x=25, confirming a square is optimal.\n\nAn alternative design could feature a circular central plaza (radius \u224816m) with radiating triangular plots. While a pure circle would actually provide more area (\u2248796 square meters), the mixed-geometry design offers practical advantages: the central area serves as a gathering space, triangular sections create microclimates for different plants, and the layout provides natural pathways while maintaining visual interest."
+  },
+  {
+    "topic": "math",
+    "difficulty": "high school",
+    "bloom_levels": [
+      "Evaluating",
+      "Creating"
+    ],
+    "question": "Your school's math club is debating different methods for solving a system of three linear equations with three unknowns. \n\nFirst, evaluate the efficiency and reliability of three different methods (substitution, elimination, and Cramer's rule) for solving such systems. For each method, identify situations where it might be particularly advantageous or disadvantageous. Support your evaluation with mathematical reasoning.\n\nThen, create your own hybrid approach that combines elements from at least two of these methods to solve systems of linear equations more efficiently. Explain your approach step-by-step and demonstrate how it would work on the following system:\n2x + 3y - z = 8\n4x - 2y + 3z = 7\n-x + y + 2z = 3",
+    "answer": "Evaluation of methods:\n- Substitution: Efficient when equations have variables with coefficient 1, but becomes complex with multiple substitutions. Best for simple systems or when one variable is easily isolated.\n- Elimination: Reliable for most systems with integer coefficients. Systematic approach works well for 3\u00d73 systems but requires careful tracking of operations.\n- Cramer's Rule: Provides direct formulas using determinants. Efficient for theoretical work but computationally intensive for larger systems.\n\nMy hybrid approach combines elimination and substitution:\n1) First, use elimination to reduce to a 2\u00d72 system\n2) Then use substitution on the simpler system\n\nApplying to the given system:\n2x + 3y - z = 8\n4x - 2y + 3z = 7\n-x + y + 2z = 3\n\nStep 1: Add equation 1 and 3 to eliminate z:\n2x + 3y - z + (-x + y + 2z) = 8 + 3\nx + 4y + z = 11\n\nStep 2: Use this new equation with equation 2:\nx + 4y + z = 11\n4x - 2y + 3z = 7\n\nStep 3: Multiply the first equation by 3:\n3x + 12y + 3z = 33\n4x - 2y + 3z = 7\n\nStep 4: Subtract to eliminate z:\n3x + 12y = 33 - 7 + 2y = 26 + 2y\n4x - 2y = 7 - 3z\n\nSo: 3x + 12y - 4x + 2y = 26\n-x + 14y = 26\nx = 14y - 26\n\nStep 5: Substitute into the first new equation:\n(14y - 26) + 4y + z = 11\n18y - 26 + z = 11\nz = 37 - 18y\n\nStep 6: Substitute both into original equation 3:\n-(14y - 26) + y + 2(37 - 18y) = 3\n-14y + 26 + y + 74 - 36y = 3\n-49y + 100 = 3\n-49y = -97\ny = -97/-49 = 2\n\nStep 7: Find x and z:\nx = 14(2) -"
+  }
+]

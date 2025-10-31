@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What does the acronym \"RAM\" stand for in computer technology?",
+    "answer": "Random Access Memory"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the programming language commonly used to create webpages?",
+    "answer": "HTML (HyperText Markup Language)"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the function of a CPU in a computer system?",
+    "answer": "The CPU (Central Processing Unit) processes instructions, performs calculations, and coordinates operations between computer components, functioning as the main processing unit that executes programs and manages data flow throughout the system."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What does the acronym \"URL\" stand for in internet technology?",
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Remembering",
+    "question": "What is the name of the technology that allows wireless devices to connect over short distances (typically less than 30 feet)?",
+    "answer": "Bluetooth"
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how cloud computing works and why it has become important for modern businesses.",
+    "answer": "Cloud computing delivers computing services (storage, processing power, software) over the internet instead of local hardware. It works by virtualizing resources across distributed networks of physical servers, allowing users to access only what they need. Businesses have embraced cloud computing because it reduces costs (pay-as-you-go model), offers scalability, enables remote work, provides access to advanced technologies, improves disaster recovery capabilities, and allows companies to focus on their core business rather than managing IT infrastructure."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Describe the concept of cybersecurity and explain why it is essential in today's digital world.",
+    "answer": "Cybersecurity is the protection of digital systems, networks, and data from unauthorized access and attacks. It's essential today because our lives are increasingly digitized, with sensitive personal and financial information stored online. Effective cybersecurity prevents identity theft, financial fraud, and protects critical infrastructure from potentially devastating attacks."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the difference between artificial intelligence (AI) and machine learning, and provide an example of how each is used in everyday technology.",
+    "answer": "Artificial intelligence (AI) is the broader concept of machines simulating human intelligence, while machine learning is a specific subset of AI where systems learn from data to improve performance without explicit programming. For example, AI powers virtual assistants like Siri or Alexa that can understand and respond to voice commands using various techniques. Machine learning is used in streaming services like Netflix or Spotify, which analyze your viewing or listening history to recommend content you might enjoy based on patterns learned from data."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Summarize how the Internet of Things (IoT) connects everyday devices and explain its potential impact on our daily lives.",
+    "answer": "The Internet of Things connects everyday devices through wireless technologies and internet protocols, allowing them to collect and share data. This connectivity enables smart homes where appliances, lighting, and security systems can be automated and remotely controlled; health monitoring through wearables that track vital signs; energy efficiency through smart thermostats and meters; and improved urban infrastructure in smart cities. While IoT offers convenience and efficiency, it also raises concerns about privacy and security as our environments become increasingly data-driven."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how blockchain technology works and why it's considered secure for digital transactions.",
+    "answer": "Blockchain technology works as a distributed digital ledger where data is stored in blocks linked through cryptography. Each transaction is verified by multiple computers (nodes) using consensus mechanisms before being added to the chain. The technology is considered secure because: it's decentralized with no single point of failure; it's immutable since altering one block requires changing all subsequent blocks across the majority of the network; it uses cryptographic hashing to protect data integrity; and it employs public-private key encryption for transaction security."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "How would you use a spreadsheet application to create a budget for planning a school event?",
+    "answer": "I would create a spreadsheet with separate sections for income and expenses. For expenses, I'd include columns for item descriptions, estimated costs, actual costs, and variance. Income sources would be listed similarly. I'd use SUM formulas to calculate totals automatically, and create visual elements like pie charts to represent budget allocation. The spreadsheet would include formulas to calculate the remaining budget and highlight over-budget categories using conditional formatting. This allows for real-time budget tracking as plans evolve and expenses occur."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "Design a simple website that would help solve a problem in your school community. What features would you include and why?",
+    "answer": "I would design a \"School Connect\" website with features including: a shared calendar for school events and deadlines; a resource exchange section for textbooks and supplies; a homework help forum where students can assist each other; a club/activity hub for organizing extracurriculars; and a community bulletin board for announcements. These features address communication gaps, promote resource sharing, provide academic support, and increase engagement by creating a centralized platform accessible to all students, teachers, and parents."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "How would you implement two-factor authentication to improve security for a school's online grading system?",
+    "answer": "I would implement two-factor authentication for the school's grading system by first requiring the standard username/password login, followed by a second verification method. For teachers and staff, I'd offer a choice between authentication apps (like Google Authenticator) or SMS verification codes sent to registered mobile numbers. For administrative accounts with higher privileges, I'd recommend hardware security keys for maximum protection. The system would need clear instructions, technical support resources, and a secure account recovery process for lost devices. This approach balances security with usability in an educational environment."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "How would you apply cloud computing technology to collaborate on a group research project with classmates who live in different neighborhoods?",
+    "answer": "I would use cloud computing by setting up a shared workspace with Google Drive or Microsoft OneDrive for document storage and real-time collaboration, implement a project management tool like Trello to track tasks, schedule regular video conferences through Zoom or Teams, use collaborative document editing for simultaneous work, create communication channels in Slack or Discord for ongoing discussions, and utilize cloud-based research tools for data analysis and citation management."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Applying",
+    "question": "How would you use digital sensors and data collection tools to monitor and analyze environmental conditions in your local community?",
+    "answer": "I would implement a network of digital sensors throughout the community, including air quality monitors, weather stations, water quality sensors, and noise level meters. These would be strategically placed in diverse locations and connected via IoT technology to a central database. The collected data would be analyzed using statistical methods to identify patterns, trends, and correlations with health outcomes. A public dashboard and mobile app would make findings accessible to residents, while alerts would notify the community about hazardous conditions. I would also engage schools in citizen science projects to expand data collection and increase environmental literacy. The system would be powered by renewable energy and designed to inform policy decisions about environmental improvements."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare and contrast the advantages and disadvantages of cloud storage versus local storage for personal data. What factors determine which option is better for different use cases?",
+    "answer": "Cloud storage offers accessibility from anywhere with internet, professional security, scalable costs, and redundant backups, but has privacy concerns and depends on internet connectivity. Local storage provides faster access speeds, complete privacy control, and no internet dependency, but limits accessibility and risks physical damage. The better option depends on data sensitivity, access requirements, file sizes, budget, internet reliability, and technical expertise. Cloud is ideal for collaboration and mobility, while local storage works better for large files, sensitive data, and areas with unreliable internet."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze how social media algorithms determine what content appears in a user's feed. What patterns exist in how these algorithms prioritize certain content over others?",
+    "answer": "Social media algorithms determine feed content primarily through user engagement history (likes, comments, shares), personal connection strength, content recency, and time spent viewing similar content. Key patterns include prioritizing emotionally provocative content that generates reactions, content from close connections, media formats that increase time-on-platform (especially video), and content similar to what users have previously engaged with. These algorithms create feedback loops that reinforce existing preferences while balancing new content discovery to maximize user retention and platform monetization opportunities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between increasing processor speed and overall computer performance. What other components might create bottlenecks in a system even with a fast processor?",
+    "answer": "Increasing processor speed improves calculation speed and multitasking, but overall performance depends on balanced components. Common bottlenecks include insufficient RAM, slow storage devices (HDDs vs. SSDs), underpowered GPUs, limited bus speeds, inadequate cooling systems, slow network connectivity, and motherboard limitations."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Examine how different cybersecurity measures work together to protect a network. What vulnerabilities might still exist even with multiple security protocols in place?",
+    "answer": "Cybersecurity measures like firewalls, encryption, authentication systems, IDS/IPS, access controls, and network segmentation work together to create layered defense. However, vulnerabilities persist through human factors (social engineering, insider threats), zero-day exploits, supply chain weaknesses, configuration errors, third-party access points, legacy systems, IoT devices, and advanced persistent threats that can bypass these protections."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the evolution of smartphone features over the past decade. What trends can you identify in how technology has developed, and what might these patterns suggest about future innovations?",
+    "answer": "Over the past decade, smartphones evolved from devices with small screens and basic cameras to sophisticated computing platforms. Key trends include: larger, higher-quality displays (from 3.5\" LCDs to 6.5\"+ OLED/AMOLED); exponential processing power increases enabling AI applications; camera systems evolving from single lenses to multi-lens arrays with computational photography; battery capacity growing from ~1500mAh to 5000mAh+ with much faster charging; connectivity advancing from 3G to 5G; new form factors like foldables; and enhanced biometric security. Future innovations will likely focus on deeper AI integration, improved foldable displays, advanced computational photography, sustainability, augmented reality features, and expanded health monitoring capabilities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the effectiveness of using social media as a primary news source. What are the potential benefits and drawbacks compared to traditional news media?",
+    "answer": "Social media offers benefits as a news source including immediacy, accessibility, diverse perspectives, and interactive engagement. However, significant drawbacks include widespread misinformation, echo chambers, lack of fact-checking, sensationalism, and limited context for complex issues. Unlike traditional media, social media typically lacks professional journalistic standards and editorial oversight, making it less reliable for comprehensive and accurate news consumption."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Critique the claim that artificial intelligence will eventually replace human workers in most industries. What evidence supports or contradicts this assertion?",
+    "answer": "The claim that AI will replace most human workers is overly simplistic. Evidence supporting it includes AI's growing capabilities in professional fields, economic pressure for automation, and historical job displacement by technology. However, contradicting evidence is substantial: AI tends to complement rather than replace humans, technological revolutions create new job categories, humans retain advantages in creativity and emotional intelligence, and many jobs require adaptability and social skills AI lacks. Technical limitations and implementation barriers further slow wholesale replacement. A more nuanced prediction is that AI will transform work rather than eliminate human workers, shifting employment toward roles leveraging uniquely human capabilities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Assess whether cloud storage is more secure than local storage for sensitive personal data. Justify your evaluation with specific security considerations.",
+    "answer": "Neither cloud nor local storage is inherently more secure; it depends on implementation. Cloud storage offers professional security management, regular updates, strong encryption, and redundancy, but introduces risks from online accessibility and third-party control. Local storage provides physical control and isolation from network attacks but is vulnerable to physical threats, theft, and often lacks robust backup systems. The best approach depends on specific security needs and proper implementation of security measures."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the environmental impact of manufacturing and disposing of electronic devices compared to their useful lifespan. Is planned obsolescence an ethical business practice?",
+    "answer": "The environmental impact of electronics is severe, with manufacturing and disposal causing pollution, resource depletion, and toxic waste, while devices are typically used for only 2-5 years. Planned obsolescence is generally unethical as it deliberately shortens product lifespans to increase sales, exacerbating environmental damage and exploiting consumers, though companies could instead focus on sustainable design, repairability, and longer-lasting products."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Evaluating",
+    "question": "Judge the effectiveness of biometric authentication methods (fingerprint, facial recognition, etc.) compared to traditional password systems. Which approach provides better security while maintaining user convenience?",
+    "answer": "Biometric methods offer superior convenience through quick, memory-free authentication while providing strong security against common threats like password guessing. However, they have permanent consequences if compromised since biometric data cannot be changed like passwords. Traditional passwords remain more private and accessible but suffer from user-created vulnerabilities. Overall, biometrics provide better security-convenience balance for everyday use, while the most effective approach is multi-factor authentication combining both methods for sensitive applications."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a smartphone app that would help high school students better manage their time and explain how it would work.",
+    "answer": "\"StudyFlow\" would help high school students manage their time by combining a class schedule tracker, assignment manager, and study timer. Students would input their class schedule and assignment deadlines, and the app would send smart notifications for upcoming due dates. It would include a Pomodoro-style focus timer for study sessions, break reminders, and a progress dashboard showing completed tasks and study streaks. The app would allow students to categorize tasks by priority and estimate completion time, then suggest optimal study blocks based on their available time. A weekly overview would help students visualize their workload and balance academics with extracurricular activities."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a wearable technology device that could help monitor and improve environmental sustainability in your school or community. Describe its features, how it would work, and what problem it would solve.",
+    "answer": "The \"EcoTrack\" wristband monitors personal and community environmental impact through multiple integrated sensors. Features include:\n\n1. Energy consumption tracking: Detects proximity to electronics and estimates energy usage, sending alerts for devices left on unnecessarily\n2. Water usage monitor: Times water usage during handwashing or drinking fountain use\n3. Waste management assistant: Scans product barcodes to provide disposal instructions and tracks recycling habits\n4. Transportation impact calculator: Uses GPS to measure carbon footprint from different transportation methods\n5. Air quality sensor: Monitors local air quality and suggests optimal times for outdoor activities\n\nThe device syncs with a mobile app and school/community dashboard showing collective impact data. Users earn \"EcoPoints\" for sustainable choices, which can be redeemed for rewards or contribute to community environmental projects. The EcoTrack addresses the challenge of making environmental impact visible and actionable, turning sustainability from an abstract concept into measurable daily actions."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Create a social media platform specifically designed to connect students with local volunteer opportunities. Explain its key features, how it would address privacy concerns, and what would make it different from existing platforms.",
+    "answer": "\"VolunteerConnect\" would feature skill-based matching algorithms connecting students with local opportunities, verified organization profiles, digital hour tracking with certification for academic requirements, and community forums organized by cause areas. For privacy, the platform would implement age-verification, limited profile visibility options, parental monitoring tools for minors, and encrypted messaging. Unlike existing platforms, it would differentiate itself through direct integration with school service-learning requirements, a gamified achievement system with badges for skills developed, hyperlocal focus with school-specific volunteer communities, and partnership programs with educational institutions to offer course credit."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design a smart home system that could significantly reduce energy consumption. Explain what sensors and technologies it would use, how different components would work together, and how users would interact with the system.",
+    "answer": "An energy-efficient smart home system would integrate motion sensors, temperature sensors, and smart meters connected to a central hub using IoT technology. The system would feature smart thermostats that learn occupancy patterns and adjust HVAC settings accordingly, automated LED lighting that responds to natural light levels and room occupancy, and smart plugs that cut power to idle devices. Energy management would include solar panel integration with battery storage, smart appliances programmed to run during off-peak hours, and automated window coverings that optimize natural heating and cooling. Users would interact through a smartphone app providing real-time energy monitoring dashboards, voice control via digital assistants, and automated routines that require minimal intervention. The system would employ machine learning to continuously optimize energy usage based on household patterns and preferences, potentially reducing energy consumption by 20-30%."
+  },
+  {
+    "topic": "technology",
+    "difficulty": "high school",
+    "bloom_level": "Creating",
+    "question": "Design an educational video game that teaches a specific scientific concept to younger students. Describe the gameplay mechanics, learning objectives, and how you would measure its effectiveness.",
+    "answer": "\"Water World Adventures\" is an educational game teaching the water cycle to elementary students. Players control a water droplet character navigating through different environments (clouds, rivers, oceans, plants) while experiencing evaporation, condensation, precipitation, and collection. \n\nGameplay mechanics include:\n- Collecting \"science points\" by correctly answering questions about water states\n- Solving puzzles that demonstrate water cycle principles\n- Building mini-ecosystems that demonstrate water movement\n- Collaborative multiplayer challenges where students form complete water cycles together\n\nLearning objectives:\n- Identify the four main stages of the water cycle\n- Understand how water changes states (solid, liquid, gas)\n- Recognize the water cycle's importance in ecosystems\n- Apply knowledge to predict water movement in different scenarios\n\nEffectiveness would be measured through:\n- Pre and post-game knowledge assessments\n- In-game analytics tracking concept mastery and areas of difficulty\n- Classroom observation of students applying learned concepts\n- Teacher feedback on curriculum alignment and student engagement"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What are the main parts of a plant cell?",
+    "answer": "The main parts of a plant cell include the cell wall, cell membrane, nucleus, chloroplasts, mitochondria, large central vacuole, cytoplasm, endoplasmic reticulum, Golgi apparatus, and ribosomes."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What are the names of the planets in our solar system in order from the Sun?",
+    "answer": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What are the three states of matter and give an example of each?",
+    "answer": "The three states of matter are solid (e.g., ice), liquid (e.g., water), and gas (e.g., water vapor)."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What are the four fundamental forces of nature?",
+    "answer": "The four fundamental forces of nature are gravity, electromagnetism, strong nuclear force, and weak nuclear force."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the chemical symbol for water?",
+    "answer": "H\u2082O"
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how the water cycle works and why it is important for Earth's ecosystems.",
+    "answer": "The water cycle works through evaporation (water turning to vapor from bodies of water), transpiration (plants releasing water vapor), condensation (vapor forming clouds), precipitation (rain/snow falling), and collection/runoff (water returning to oceans and lakes). This cycle is crucial because it distributes freshwater globally, regulates Earth's temperature, supports all life forms, shapes landscapes, and connects ecosystems, ensuring the survival and functioning of all Earth's environments."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "In your own words, describe the difference between renewable and non-renewable energy sources.",
+    "answer": "Renewable energy sources naturally replenish themselves within a human lifetime (like solar, wind, and hydropower), making them sustainable for long-term use with generally lower environmental impact. Non-renewable sources (like coal, oil, and natural gas) exist in finite amounts, take millions of years to form, and typically create more pollution when used."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how the human digestive system breaks down food into nutrients that our bodies can use.",
+    "answer": "The digestive system breaks down food through mechanical and chemical processes. Starting in the mouth, food is chewed and mixed with saliva containing enzymes. It travels through the esophagus to the stomach, where acids and enzymes continue breakdown. In the small intestine, pancreatic enzymes, bile from the liver, and intestinal enzymes complete digestion, breaking complex carbohydrates into sugars, proteins into amino acids, and fats into fatty acids. These nutrients are absorbed through the intestinal wall into the bloodstream for use throughout the body."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Describe the relationship between the Earth, Moon, and Sun during solar and lunar eclipses.",
+    "answer": "During a solar eclipse, the Moon positions itself between Earth and Sun, casting its shadow on Earth when perfectly aligned. In contrast, a lunar eclipse occurs when Earth comes between the Sun and Moon, with Earth's shadow falling on the Moon. Solar eclipses happen during New Moon phases, while lunar eclipses occur during Full Moon phases."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain the relationship between mass and weight, and how they might differ on Earth versus on the Moon.",
+    "answer": "Mass is the amount of matter in an object and remains constant everywhere, while weight is the gravitational force acting on that mass. On the Moon, an object's mass stays the same as on Earth, but its weight is about 1/6 of its Earth weight due to the Moon's weaker gravitational pull."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "If you have a small potted plant at home, how would you design an experiment to determine what factors (like light, water, or soil type) affect its growth the most?",
+    "answer": "Design an experiment with multiple identical potted plants divided into test groups. For each factor (light, water, soil), create separate groups that receive different levels of that factor while keeping other variables constant. For example, test different light exposure (3-4 hours, 6-8 hours, 12+ hours) while maintaining identical watering and soil for those plants. Measure and record growth metrics (height, leaf count, health) weekly for 4-6 weeks. Compare results statistically to determine which factor produced the most significant differences in growth."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you use the concept of density to explain why some objects float in water while others sink?",
+    "answer": "Objects float in water when their density is less than water's density (1 g/cm\u00b3), as the buoyant force exceeds their weight. Objects sink when their density is greater than water's, as their weight overcomes the buoyant force. This explains why a wooden block floats while a steel ball sinks, despite both being subjected to the same physical laws."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How could you apply your knowledge of simple machines to create a device that would help you lift a heavy object at home?",
+    "answer": "I could create a simple pulley system by attaching a rope through one or more pulleys mounted on the ceiling, which would reduce the force needed to lift heavy objects. Alternatively, I could build a lever-based device using a long, sturdy board with a fulcrum placed close to the load, allowing me to lift heavy items with less effort by applying force at the opposite end."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How would you use your understanding of the water cycle to explain why it might rain more in certain regions of the world than others?",
+    "answer": "Rainfall varies across regions due to differences in the water cycle's intensity. Areas with higher rainfall typically have geographic features that promote evaporation (like warm oceans) and condensation (like mountains that force air upward). When air containing water vapor rises and cools, precipitation occurs. Coastal regions often receive more rain due to proximity to water sources, while mountains create rainy windward sides and dry rain shadows on leeward sides. Global wind patterns also direct moisture-laden air to specific regions, explaining phenomena like tropical rainforests and monsoon seasons."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "How could you apply the concept of insulation to design a container that keeps a hot drink warm for a longer period of time?",
+    "answer": "I would design a double-walled container with a vacuum between the walls to eliminate conduction and convection. The inner wall would have a reflective coating to prevent radiative heat loss. A tight-sealing lid with minimal opening size would reduce heat escape when in use. Materials with low thermal conductivity would be used for parts that can't have vacuum insulation."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare the structures of plant and animal cells. What do these differences tell us about how each type of cell functions?",
+    "answer": "Plant cells have rigid cell walls, chloroplasts, and large central vacuoles, while animal cells lack these structures but contain more lysosomes and centrioles. These differences reflect their distinct functions: plant cells support photosynthesis and structural rigidity in stationary organisms, while animal cells facilitate movement, digestion, and adaptability in mobile organisms."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Examine the food web diagram provided. What would happen to the population of rabbits if the number of foxes decreased? Explain your reasoning.",
+    "answer": "The rabbit population would likely increase because foxes are predators of rabbits. With fewer foxes hunting them, more rabbits would survive and reproduce."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the weather data from the past month and identify any patterns between temperature changes and precipitation levels.",
+    "answer": "Without specific weather data provided in the question, I cannot identify actual patterns. Generally, such analysis would involve examining correlations between daily temperature fluctuations and precipitation events, looking for relationships like whether rainfall follows temperature drops or if higher temperatures correlate with specific precipitation patterns."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze how the moon's phases relate to its position relative to the Earth and Sun.",
+    "answer": "Moon phases occur because we see different portions of the moon's sunlit side as it orbits Earth. A new moon occurs when the moon is between Earth and Sun, showing its dark side to us. As it orbits, we gradually see more of the illuminated side (waxing phases). A full moon occurs when the moon is on the opposite side of Earth from the Sun, fully illuminated from our perspective. Then we see decreasing illumination (waning phases) as it continues its 29.5-day cycle."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare the properties of solids, liquids, and gases in terms of particle arrangement and movement. How do these properties explain why gases are more compressible than solids?",
+    "answer": "Solids have tightly packed particles in fixed positions with strong forces between them. Liquids have close particles that can move past each other with moderate forces. Gases have widely spaced particles moving freely with weak forces. Gases are more compressible than solids because the large spaces between gas particles can be reduced when pressure is applied, while solid particles are already closely packed with minimal space to compress."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Is recycling always the best solution for reducing waste? Evaluate this claim and provide evidence to support your position.",
+    "answer": "No, recycling is not always the best solution for reducing waste. While recycling helps conserve resources and reduce landfill use, it has limitations including energy costs, contamination issues, and degradation of materials. The waste hierarchy suggests that reducing consumption and reusing items often provide greater environmental benefits. For some materials like certain plastics, recycling processes can be inefficient or impractical. A comprehensive approach combining reduction, reuse, and recycling based on specific materials and local conditions is more effective than relying solely on recycling."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate whether nuclear energy is a good alternative to fossil fuels. Support your judgment with scientific evidence.",
+    "answer": "Nuclear energy offers significant advantages over fossil fuels as it produces minimal greenhouse gas emissions during operation and provides reliable baseload power with high energy density. However, it presents challenges including radioactive waste management, high initial costs, and potential for rare but severe accidents. Overall, nuclear energy can be considered a valuable part of a low-carbon energy mix, especially when complemented by renewables and coupled with advanced safety systems."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Assess whether the claim \"all plants need sunlight to survive\" is accurate. Support your evaluation with scientific evidence.",
+    "answer": "The claim is inaccurate. While most plants require sunlight for photosynthesis, several plant species have evolved alternative survival strategies. Examples include parasitic plants like dodder that extract nutrients from host plants, mycoheterotrophic plants like Indian pipe that obtain energy from fungi, and the underground orchid that lives its entire lifecycle below ground without direct sunlight."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Judge whether the statement \"all metals conduct electricity equally well\" is true. Provide scientific evidence to support your evaluation.",
+    "answer": "False. Metals have varying electrical conductivities due to differences in atomic structure and electron configuration. Silver is the best conductor (63 \u00d7 10^6 S/m), followed by copper (59 \u00d7 10^6 S/m), gold (45 \u00d7 10^6 S/m), and aluminum (38 \u00d7 10^6 S/m), while metals like iron and mercury conduct electricity much less efficiently."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate whether antibiotics are effective against viral infections. Support your assessment with scientific evidence.",
+    "answer": "No, antibiotics are not effective against viral infections. Antibiotics work by targeting bacterial cell structures and processes (like cell wall synthesis or protein production) that viruses lack. Viruses have different structures and replicate using host cell machinery, making them unaffected by antibiotics. Misusing antibiotics for viral infections contributes to antibiotic resistance."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design an experiment that tests how different types of soil affect plant growth. Include what materials you would need, what you would measure, and how you would collect data.",
+    "answer": "Experiment: Effects of Soil Type on Plant Growth\n\nMaterials:\n- 4 soil types: sandy soil, clay soil, loamy soil, and commercial potting mix\n- 20 identical pots (5 for each soil type)\n- 20 bean seeds of the same variety\n- Ruler or measuring tape\n- Digital kitchen scale\n- Watering can with measurement markings\n- Light source if indoors\n- Thermometer\n- Camera\n- Notebook for data recording\n\nProcedure:\n1. Fill 5 pots with each soil type (total 20 pots)\n2. Plant one bean seed in each pot at the same depth (1 inch)\n3. Place pots in a location with uniform light exposure\n4. Water each pot with the same amount of water (50ml) every two days\n5. Randomize pot placement and rotate positions weekly\n\nMeasurements:\n1. Germination rate (days until sprouting)\n2. Plant height (cm) measured weekly for 4 weeks\n3. Number of leaves counted weekly\n4. Stem diameter (mm) measured weekly\n5. Final biomass - carefully remove plants, dry them, and weigh (g)\n6. Take weekly photographs to document visual differences\n\nData Collection:\n- Create a spreadsheet with columns for each measurement and rows for each plant\n- Calculate averages and standard deviations for each soil type\n- Graph results showing growth trends over time\n- Compare final measurements using statistical analysis to determine which soil type produced the most robust growth"
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a model of a renewable energy system that could power a small classroom. Explain what materials you would use, how your system would work, and why you chose this specific design.",
+    "answer": "I would design a solar-powered system with 4-6 photovoltaic panels installed on the classroom roof or nearby ground mount. The system would include:\n\nMaterials:\n- 4-6 solar panels (approximately 400W each)\n- Lithium-ion battery bank (3-5kWh capacity)\n- Charge controller\n- Grid-tie inverter\n- Energy monitoring display for educational purposes\n- Mounting hardware and wiring\n\nOperation:\nThe panels would convert sunlight to electricity during daylight hours, powering classroom needs directly while storing excess energy in batteries. During cloudy periods or nighttime, the batteries would provide power. The monitoring display would show real-time energy production, consumption, and battery levels, serving as a teaching tool.\n\nI chose this design because solar is safe, visible to students, requires minimal maintenance, and provides reliable power in most locations. The battery storage ensures continuous operation, and the monitoring system turns the installation into a living laboratory where students can learn about renewable energy, electricity, and conservation through direct observation."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Create a proposal for a water filtration system using household materials that could clean dirty water. Explain what materials you would use, how they would work together to filter contaminants, and how you would test if your system is effective.",
+    "answer": "A household water filtration system can be created using a plastic bottle, cotton balls, coffee filters, activated charcoal (from crushed charcoal briquettes), sand, and gravel. Cut the bottom off the bottle and invert it. Layer materials from bottom to top: coffee filter, cotton balls, activated charcoal, fine sand, coarse sand, and gravel. Each layer serves a specific purpose\u2014gravel and sand trap large particles, activated charcoal absorbs chemicals and odors, cotton catches fine sediments, and the coffee filter prevents materials from washing through. To test effectiveness, compare the filtered water's clarity with the original sample, check for sediment by letting it settle in a clear container, test pH levels using household indicators like red cabbage juice, and observe if any odors have been removed. This system won't remove all contaminants like bacteria or heavy metals but can significantly improve water clarity and taste."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a simple ecosystem in a bottle that demonstrates the water cycle and carbon cycle. Explain what organisms you would include, how you would set it up, and how it would demonstrate these natural cycles.",
+    "answer": "I would create a terrarium in a large clear glass bottle with:\n\n1. Setup: Add 2-3 inches of small rocks at the bottom for drainage, followed by activated charcoal to prevent mold, then 3-4 inches of potting soil.\n\n2. Organisms:\n   - Small plants like ferns or moss (for photosynthesis)\n   - Springtails or isopods (as decomposers)\n   - Soil microorganisms (naturally present in soil)\n\n3. Add water until soil is moist but not saturated, then seal the bottle.\n\nThis demonstrates the water cycle as water evaporates from soil and plants, condenses on the glass walls, and \"rains\" back down. The carbon cycle is shown as plants take in CO\u2082 for photosynthesis, while decomposers and plant respiration release CO\u2082 back into the bottle's atmosphere. The sealed system allows these cycles to continue indefinitely with only sunlight as external input."
+  },
+  {
+    "topic": "science",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a prototype of a device that could help reduce air pollution in your community. Describe the materials you would use, how it would work, and explain how you would test its effectiveness.",
+    "answer": "I propose a \"CommuniClean Air Station\" - a solar-powered air purification device for busy intersections. Materials include solar panels, HEPA and activated carbon filters, energy-efficient fans, air quality sensors, weather-resistant housing, and wireless connectivity components. The device works by drawing polluted air through multiple filtration stages using solar energy, then releasing clean air back into the environment. The station would continuously monitor air quality and transmit data for analysis. To test effectiveness, I would first conduct laboratory tests on filtration efficiency, then install prototypes at pollution hotspots and measure before/after air quality differences. Long-term monitoring would track improvements over months, supplemented by community health surveys and cost-benefit analysis to determine scalability."
+  }
+]

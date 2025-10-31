@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of a continuous function?",
+    "answer": "A function is continuous if small changes in the input result in small changes in the output. Formally, a function f(x) is continuous at x = a if the function is defined at a, the limit as x approaches a exists, and this limit equals f(a)."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of a derivative in calculus?",
+    "answer": "The derivative is the instantaneous rate of change of a function with respect to one of its variables, representing the slope of the tangent line at any point on the function's graph."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of an eigenvalue in linear algebra?",
+    "answer": "An eigenvalue is a scalar that, when a matrix operates on its corresponding eigenvector, produces a vector that is a scalar multiple of the original vector."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the definition of a convergent sequence?",
+    "answer": "A convergent sequence is a sequence that approaches a specific value (called the limit) as the number of terms increases indefinitely."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Remembering",
+    "question": "What is the Fundamental Theorem of Calculus?",
+    "answer": "The Fundamental Theorem of Calculus establishes that differentiation and integration are inverse processes. It states that if f is continuous on an interval, then the definite integral of f from a to b equals F(b) - F(a), where F is any antiderivative of f."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of a limit in calculus and how it relates to the derivative of a function.",
+    "answer": "A limit in calculus describes the value a function approaches as its input approaches a specific value. The derivative is defined using limits as f'(x) = lim(h\u21920) [f(x+h) - f(x)]/h, representing the instantaneous rate of change of the function. This limit formulation allows us to find the slope of the tangent line at any point on a curve, making limits essential for defining derivatives and enabling the calculation of instantaneous rates of change."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of eigenvalues and eigenvectors in linear algebra and why they are important in applications.",
+    "answer": "Eigenvalues and eigenvectors are special values and vectors associated with a square matrix. An eigenvector is a non-zero vector that, when multiplied by the matrix, results in a scalar multiple of itself (the scalar being the eigenvalue). They're important because they simplify complex transformations, help solve differential equations, enable dimensionality reduction in data analysis, and have applications in physics, engineering, computer science, and economics where they reveal fundamental properties of systems."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of a Taylor series and how it can be used to approximate functions.",
+    "answer": "A Taylor series expresses a function as an infinite sum of terms derived from the function's derivatives at a specific point. The series takes the form: f(x) = f(a) + f'(a)(x-a)/1! + f''(a)(x-a)\u00b2/2! + ... where each term incorporates higher derivatives. To approximate functions, we use a finite number of these terms (Taylor polynomial), with accuracy improving as more terms are added within the radius of convergence. This technique is valuable for evaluating complex functions, performing numerical calculations, and solving differential equations where exact solutions are difficult to obtain."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the concept of mathematical induction and why it is a valid method for proving statements about natural numbers.",
+    "answer": "Mathematical induction is a proof method that works by first proving a statement is true for an initial case (usually n=1), and then proving that if it's true for any arbitrary case k, it must be true for case k+1. It's valid because of the well-ordering principle of natural numbers: once we establish the statement for a starting point and show the truth transfers from each number to the next, we've covered all natural numbers since they can all be reached by successive steps from the starting point."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Understanding",
+    "question": "Explain the relationship between the Fundamental Theorem of Calculus and the concept of integration.",
+    "answer": "The Fundamental Theorem of Calculus establishes that differentiation and integration are inverse operations. It shows that the definite integral of a function can be calculated using its antiderivative, connecting the concept of area under a curve with the rate of change of functions."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "A pharmaceutical company needs to determine the optimal dosage of a new medication. If the effectiveness E of the medication (measured as percentage of symptoms reduced) is related to the dosage d (in mg) by the function E(d) = -0.01d\u00b2 + 0.8d + 10, what dosage should be administered to maximize effectiveness?",
+    "answer": "40 mg"
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "An urban planner is designing a rectangular park with a perimeter of 300 meters. If the area of the park needs to be maximized to provide the most green space, what should the dimensions of the park be?",
+    "answer": "The park should be a square with dimensions of 75 meters by 75 meters."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "A civil engineer is designing a cylindrical water tank with a fixed volume of 100 cubic meters. The cost of constructing the tank depends on the surface area, where the material for the top and bottom costs $50 per square meter and the material for the curved side costs $30 per square meter. What dimensions (radius and height) should the engineer choose to minimize the construction cost?",
+    "answer": "The optimal dimensions to minimize construction cost are approximately 1.85 meters for the radius and 9.25 meters for the height."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "A population biologist is studying the spread of a bacterial colony in a petri dish. If the radius r (in cm) of the circular colony after t hours is given by the function r(t) = 2ln(t+1), at what rate is the area of the colony increasing after 3 hours?",
+    "answer": "The area of the bacterial colony is increasing at a rate of 2\u03c0\u00b7ln(4) \u2248 8.71 cm\u00b2/hour after 3 hours."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Applying",
+    "question": "An economist is analyzing the relationship between a company's advertising expenditure and its revenue. If the revenue R (in thousands of dollars) is related to the advertising expenditure x (in thousands of dollars) by the function R(x) = 200 + 40x - 0.5x\u00b2, what advertising expenditure will maximize the company's profit?",
+    "answer": "40 thousand dollars"
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between the eigenvalues of a matrix and its determinant. What patterns do you observe?",
+    "answer": "The determinant of a matrix equals the product of all its eigenvalues. If any eigenvalue is zero, the determinant is zero and the matrix is singular. The sign of the determinant depends on whether there are an even or odd number of negative eigenvalues. Geometrically, while eigenvalues represent scaling along principal directions, their product (the determinant) represents the overall volume scaling factor."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the convergence behavior of different numerical methods (such as Newton's method, bisection method, and fixed-point iteration) for finding roots of equations. What factors influence their efficiency and accuracy?",
+    "answer": "Newton's method offers quadratic convergence but requires differentiability and good initial guesses. The bisection method provides guaranteed but slower linear convergence for continuous functions. Fixed-point iteration converges linearly when |g'(x)| < 1. Efficiency and accuracy are influenced by function properties (smoothness, condition number), proximity of initial guess to the root, presence of multiple roots or singularities, and implementation details like stopping criteria."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the connection between the properties of a function and the behavior of its Fourier series expansion. How do discontinuities in the function affect the convergence of the series?",
+    "answer": "The smoothness of a function directly affects its Fourier series convergence. For continuous functions with continuous derivatives, the series converges uniformly with rapidly decaying coefficients. When discontinuities exist, the convergence is affected in several ways: the Gibbs phenomenon causes oscillations near jump discontinuities, the coefficients decay more slowly (at rate 1/n), and at discontinuity points, the series converges to the average of the left and right limits rather than the function value itself."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Examine how different types of transformations (rotations, reflections, translations, and dilations) affect the geometric properties of shapes in a coordinate plane. What invariants exist under each type of transformation?",
+    "answer": "Translations preserve shape, size, angles, orientation, and distances between points. Rotations preserve shape, size, angles, and distances, but change orientation relative to axes. Reflections preserve shape, size, angles, and distances, but reverse orientation. Dilations preserve shape and angles but change size proportionally to the scale factor. Translations, rotations, and reflections (isometries) all preserve congruence, while dilations preserve similarity but not congruence."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between the derivatives and integrals of a function. How does understanding this relationship help in solving differential equations?",
+    "answer": "Derivatives measure instantaneous rates of change while integrals represent accumulation or area under curves. The Fundamental Theorem of Calculus establishes them as inverse operations: if F(x) is the antiderivative of f(x), then F'(x) = f(x) and \u222bf(x)dx = F(x) + C. This relationship is essential for solving differential equations by allowing us to find general solutions through integration, verify solutions through differentiation, apply methods like separation of variables, and understand the physical meaning of solutions in terms of rates and accumulations."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Critique the statement: \"If a function is continuous, then it must be differentiable.\" Provide counterexamples or evidence to support your evaluation.",
+    "answer": "The statement is false. While all differentiable functions are continuous, not all continuous functions are differentiable. For example, the absolute value function f(x) = |x| is continuous everywhere but not differentiable at x = 0 due to the sharp corner in its graph. Similarly, the cube root function f(x) = x^(1/3) is continuous everywhere but not differentiable at x = 0."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the efficiency of different numerical methods (such as Newton's method, bisection method, and secant method) for finding roots of a polynomial equation. Which method would you recommend for a specific scenario and why?",
+    "answer": "Newton's method offers quadratic convergence making it fastest when a good initial guess is available, but it requires derivatives and can diverge. The bisection method is slowest but most reliable, guaranteeing convergence when a sign change is identified. The secant method offers a compromise with superlinear convergence without requiring derivatives. For polynomial equations with known approximate roots and available derivatives, Newton's method is recommended for efficiency. For guaranteed but slower convergence, especially with unknown behavior, the bisection method is preferable."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Assess the claim that eigenvalues and eigenvectors are the most important concepts in linear algebra. Provide mathematical evidence and real-world applications to support or refute this assertion.",
+    "answer": "While eigenvalues and eigenvectors are extremely important in linear algebra, calling them the \"most important\" concepts is subjective. They are certainly central to many applications including PCA in data science, Google's PageRank algorithm, quantum mechanics, vibration analysis, and machine learning. Mathematically, they provide critical insights into matrix behavior and simplify complex calculations through diagonalization. However, linear algebra's power comes from its interconnected concepts - vector spaces, linear transformations, and systems of equations are equally fundamental. Rather than identifying a single \"most important\" concept, it's more accurate to view eigentheory as one essential component in linear algebra's comprehensive framework."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate the validity of the statement: \"Every convergent sequence in calculus is bounded.\" Justify your answer with mathematical reasoning and provide examples or counterexamples as appropriate.",
+    "answer": "The statement is true. Every convergent sequence is bounded. If a sequence converges to a limit L, then after some point N, all terms are within a fixed distance of L, and the first N terms form a finite set with a maximum value. This makes the entire sequence bounded by some value M. For example, the sequence 1/n converges to 0 and is bounded by 1. However, the converse is not true\u2014bounded sequences aren't necessarily convergent, as shown by the oscillating sequence (-1)^n."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Evaluating",
+    "question": "Analyze the strengths and limitations of using Taylor series approximations for transcendental functions. Under what conditions would you recommend this approach versus other numerical methods?",
+    "answer": "Taylor series approximations excel when working near expansion points, requiring analytical insights, or handling functions with rapidly converging series like e^x and trigonometric functions. Their limitations include finite convergence radius, computational costs for higher derivatives, and poor performance near singularities. Recommend Taylor series for theoretical work and when derivatives are easily computed; prefer other numerical methods (like Pad\u00e9 approximations, Chebyshev polynomials, or direct numerical integration) when working far from expansion points, needing uniform accuracy over wide ranges, or requiring computational efficiency."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a mathematical model that could be used to predict the spread of a disease in a population, incorporating variables such as transmission rate, recovery rate, and population density.",
+    "answer": "A SIR (Susceptible-Infected-Recovered) model using differential equations:\ndS/dt = -\u03b2SI/N\ndI/dt = \u03b2SI/N - \u03b3I\ndR/dt = \u03b3I\n\nWhere \u03b2 is the transmission rate (adjusted for population density), \u03b3 is the recovery rate, and N is total population. The basic reproduction number R\u2080 = \u03b2/\u03b3 determines epidemic potential. This model can be solved numerically to predict disease progression over time, and can be extended to include vaccination rates, demographic factors, and spatial distribution for more accurate predictions."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Develop a novel optimization algorithm that could solve a complex scheduling problem for a university's final exam timetable, considering constraints like room availability, student conflicts, and faculty preferences.",
+    "answer": "I propose a \"Constraint-Aware Evolutionary Scheduling\" algorithm that combines genetic algorithms with reinforcement learning. The algorithm would represent exam schedules as chromosomes with adaptive mutation rates based on constraint violations. It would use a multi-phase approach: first creating conflict graphs between exams, then applying graph coloring for initial feasible groupings, followed by evolutionary optimization with specialized crossover operators that preserve valid partial schedules. The fitness function would balance weighted constraints (room capacity, student conflicts) with soft preferences (faculty requests, student exam spacing). The reinforcement learning component would dynamically adjust constraint weights based on historical performance, allowing the algorithm to adapt to the specific characteristics of different university environments. This hybrid approach would outperform traditional methods by efficiently navigating the complex solution space while maintaining practical implementability."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Create a mathematical proof for a theorem or property in linear algebra that was not explicitly covered in your coursework, but that you can derive from fundamental principles you have learned.",
+    "answer": "Theorem: The determinant of a triangular matrix equals the product of its diagonal elements.\n\nProof:\nFor an n\u00d7n upper triangular matrix A, I'll use induction.\nBase case: For a 1\u00d71 matrix, det(A) = a\u2081\u2081, which is the only diagonal element.\nInductive step: Using cofactor expansion along the first row of an n\u00d7n upper triangular matrix:\ndet(A) = a\u2081\u2081\u00b7C\u2081\u2081 (all other cofactors contain columns of zeros)\nSince C\u2081\u2081 is the determinant of an (n-1)\u00d7(n-1) upper triangular matrix, by the induction hypothesis:\ndet(A) = a\u2081\u2081\u00b7(a\u2082\u2082\u00b7a\u2083\u2083\u00b7...\u00b7a\u2099\u2099) = a\u2081\u2081\u00b7a\u2082\u2082\u00b7...\u00b7a\u2099\u2099\nTherefore, the determinant equals the product of diagonal elements.\nThe same logic applies to lower triangular matrices."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a cryptographic system using number theory concepts that would allow secure communication between two parties without requiring them to share a secret key beforehand.",
+    "answer": "A public-key cryptosystem based on RSA principles: Each party generates two large primes p and q, computes n = p\u00d7q and \u03c6(n) = (p-1)(q-1), selects a public exponent e coprime to \u03c6(n), and calculates a private exponent d where e\u00d7d \u2261 1 (mod \u03c6(n)). The public key (n,e) is shared openly while d remains private. Messages are encrypted using c \u2261 m^e (mod n) and decrypted with m \u2261 c^d (mod n). Security relies on the computational difficulty of factoring large numbers, enabling secure communication without pre-shared keys."
+  },
+  {
+    "topic": "math",
+    "difficulty": "undergraduate",
+    "bloom_level": "Creating",
+    "question": "Design a statistical sampling method to accurately estimate wildlife populations in a large national park, considering factors such as animal migration patterns, seasonal variations, and limited resources for data collection.",
+    "answer": "Implement stratified random sampling by dividing the park into ecological zones, then use a combination of mark-recapture studies, camera traps, and distance sampling methods across multiple seasons. Prioritize sampling during key migration periods, employ occupancy modeling to account for imperfect detection, and integrate citizen science data to extend coverage despite resource limitations."
+  }
+]

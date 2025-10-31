@@ -1,0 +1,212 @@
+[
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the formula for finding the area of a rectangle?",
+    "answer": "Area = length \u00d7 width"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the Pythagorean theorem?",
+    "answer": "The Pythagorean theorem states that in a right triangle, the square of the length of the hypotenuse equals the sum of the squares of the other two sides (a\u00b2 + b\u00b2 = c\u00b2)."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the formula for calculating the circumference of a circle?",
+    "answer": "C = 2\u03c0r or C = \u03c0d, where r is the radius, d is the diameter, and \u03c0 is pi."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What are the properties of an isosceles triangle?",
+    "answer": "An isosceles triangle has two equal sides and two equal angles. The equal angles are opposite to the equal sides. It has one axis of symmetry, and if an altitude is drawn from the vertex angle to the base, it also serves as the perpendicular bisector of the base and the angle bisector of the vertex angle."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Remembering",
+    "question": "What is the formula for finding the volume of a rectangular prism?",
+    "answer": "Volume = length \u00d7 width \u00d7 height"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain why the interior angles of a triangle always sum to 180 degrees.",
+    "answer": "The interior angles of a triangle always sum to 180 degrees because of the parallel line postulate in Euclidean geometry. When a line parallel to one side of the triangle is drawn through the opposite vertex, the three interior angles correspond to angles that form a straight line (180 degrees)."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "In your own words, explain what the slope of a line represents in a real-world context.",
+    "answer": "The slope of a line represents the rate of change between two variables. In real-world contexts, it shows how quickly one quantity changes in relation to another. For example, on a distance-time graph, the slope represents speed; on a cost-quantity graph, it represents the price per unit; and on a height-distance graph of a hill, it represents the steepness. A positive slope indicates both quantities increase together, while a negative slope shows an inverse relationship."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Describe the difference between mean, median, and mode as measures of central tendency.",
+    "answer": "Mean is the arithmetic average (sum of values divided by count), median is the middle value when data is ordered, and mode is the most frequently occurring value. Mean is affected by outliers, median is resistant to outliers, and mode shows the most common value."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain how the Pythagorean theorem relates to right triangles and why it's useful in solving real-world problems.",
+    "answer": "The Pythagorean theorem states that in right triangles, the square of the hypotenuse equals the sum of squares of the other two sides (a\u00b2 + b\u00b2 = c\u00b2). It's useful for solving real-world problems involving distances, construction, navigation, and engineering because it allows us to calculate unknown lengths when direct measurement isn't possible, especially in situations involving perpendicular relationships."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Understanding",
+    "question": "Explain why a negative number multiplied by another negative number results in a positive number.",
+    "answer": "When you multiply two negative numbers, you're essentially taking the opposite of a negative quantity. Mathematically, this can be understood as \"the opposite of losing something,\" which results in a gain (positive). It follows the pattern where each negative sign changes the direction of the result, so two negative signs cancel each other out, yielding a positive product."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "A recipe for cookies requires 2/3 cup of sugar to make 24 cookies. If you want to make 36 cookies, how much sugar will you need?",
+    "answer": "1 cup of sugar"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "If a car travels at a constant speed of 45 miles per hour, how far will it travel in 2.5 hours?",
+    "answer": "112.5 miles"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "A rectangular garden has a length of 12 feet and a width of 8 feet. If you want to place a fence around the entire garden, how many feet of fencing material will you need?",
+    "answer": "40 feet"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "The sales tax in your city is 8%. If you buy a new bicycle that costs $225 before tax, how much will you pay in total?",
+    "answer": "$243"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Applying",
+    "question": "A cylindrical water tank has a radius of 3 feet and a height of 5 feet. If the tank is filled with water, how many cubic feet of water does it contain?",
+    "answer": "141.37 cubic feet"
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Examine the sequence 3, 7, 11, 15, 19... What pattern do you notice, and what would be the next three numbers in this sequence?",
+    "answer": "The pattern is adding 4 to each term. The next three numbers would be 23, 27, and 31."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Compare and contrast the properties of a rectangle and a parallelogram. What features do they share and how are they different?",
+    "answer": "Both rectangles and parallelograms are quadrilaterals with parallel opposite sides of equal length. However, rectangles have four right angles and equal diagonals, while parallelograms generally have non-right angles and unequal diagonals. A rectangle is actually a special type of parallelogram with additional properties."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the graph of y = 2x + 3 and y = -x + 6. At what point do these lines intersect, and what does this point represent in terms of the two equations?",
+    "answer": "The lines intersect at the point (1, 5). This point represents the unique solution to the system of equations, where both y = 2x + 3 and y = -x + 6 are satisfied simultaneously."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between the area and perimeter of different rectangles with the same area of 36 square units. What do you notice about how the perimeter changes as the dimensions change?",
+    "answer": "As the dimensions of rectangles with area 36 square units change from elongated (like 1\u00d736) toward a square (6\u00d76), the perimeter decreases. The square has the minimum perimeter (24 units), while more elongated rectangles have increasingly larger perimeters."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Analyzing",
+    "question": "Analyze the relationship between the interior angles of different polygons. How does the sum of interior angles change as the number of sides increases from 3 to 6?",
+    "answer": "As the number of sides increases from 3 to 6, the sum of interior angles increases by 180\u00b0 each time: triangle (180\u00b0), quadrilateral (360\u00b0), pentagon (540\u00b0), and hexagon (720\u00b0). This follows the formula (n-2)\u00d7180\u00b0 where n is the number of sides."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Determine whether the statement \"all squares are rectangles, but not all rectangles are squares\" is true or false. Justify your answer with mathematical reasoning.",
+    "answer": "True. A square meets all the criteria of a rectangle (four right angles) while also having equal sides. However, rectangles only need four right angles and can have unequal sides, so not all rectangles qualify as squares."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Critique the following solution to the equation 3x - 7 = 14:\nStep 1: 3x - 7 = 14\nStep 2: 3x = 14 + 7\nStep 3: 3x = 21\nStep 4: x = 21 \u00f7 3\nStep 5: x = 7\n\nIs this solution correct? If not, identify the error(s) and explain what should have been done instead.",
+    "answer": "The solution is correct. Each step properly follows algebraic rules: adding 7 to both sides, then dividing by 3 to isolate x. The answer x = 7 can be verified by substituting it back into the original equation: 3(7) - 7 = 21 - 7 = 14."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Evaluate whether the following statement is correct: \"When you multiply a negative number by a negative number, the result is always negative.\" Provide examples to support your evaluation.",
+    "answer": "The statement is incorrect. When you multiply a negative number by a negative number, the result is always positive. For example, (-2) \u00d7 (-3) = 6 and (-5) \u00d7 (-4) = 20."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Assess whether the following method for finding the area of a triangle is valid: \"Multiply the three sides together and divide by 2.\" Justify your evaluation with mathematical reasoning.",
+    "answer": "No, the method is not valid. The formula \"Multiply the three sides together and divide by 2\" does not correctly calculate a triangle's area. Testing with simple triangles proves this: a 3-4-5 right triangle has an area of 6 square units, but the proposed formula gives 30 square units. The correct formulas for triangle area include (1/2) \u00d7 base \u00d7 height or Heron's formula \u221a(s(s-a)(s-b)(s-c)) where s = (a+b+c)/2."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Evaluating",
+    "question": "Examine the claim that \"the average of a set of numbers is always less than the largest number in the set.\" Is this claim always true, sometimes true, or never true? Justify your answer with specific examples.",
+    "answer": "The claim is sometimes true. When a set contains numbers of different values, the average will be less than the largest number. However, when all numbers in a set are equal, the average equals the largest number. For example, in {1,2,3,4,5}, the average (3) is less than the largest number (5), but in {7,7,7,7}, the average equals the largest number (7)."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a game or puzzle that uses the concept of proportions to solve. Explain the rules and how proportions are applied in your creation.",
+    "answer": "\"Potion Master\" - A puzzle game where players must create magical potions by mixing ingredients in the correct proportions.\n\nRules:\n1. Players start with a recipe book showing the proportional relationships between ingredients (e.g., \"The ratio of moonflower to dragon scale must be 3:2\").\n2. Each level provides different amounts of available ingredients and required potion volumes.\n3. Players must determine the exact quantities of each ingredient needed for the current potion size.\n4. As levels progress, more ingredients are added and the proportional relationships become more complex (involving 3-4 ingredients with interdependent ratios).\n\nHow proportions are applied:\nPlayers must set up and solve proportion equations. For example, if the base recipe requires a 3:2:1 ratio of ingredients A:B:C to make 6 units, and they need to make 15 units, they must calculate that they need 7.5 units of A, 5 units of B, and 2.5 units of C. The game teaches direct and inverse proportion through gameplay, as sometimes ingredients have opposing effects that must be balanced."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Create a floor plan for a dream bedroom that incorporates at least three different geometric shapes. Calculate the area and perimeter of each shape and explain how you would determine the total area of the room.",
+    "answer": "The dream bedroom floor plan includes a 12\u00d715 ft rectangular main area (180 sq ft, perimeter 54 ft), a semi-circular bay window with 4 ft radius (25.12 sq ft, perimeter 20.56 ft), and a triangular reading nook with base 8 ft and height 6 ft (24 sq ft, perimeter 24 ft). The total bedroom area is calculated by adding all three areas: 180 + 25.12 + 24 = 229.12 square feet."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a budget plan for a school fundraiser that would raise at least $500. Include different income sources, expected costs, and use percentages to show how the money will be allocated. Explain how you used mathematical concepts in creating your budget.",
+    "answer": "Budget Plan for School Fundraiser:\n\nIncome Sources:\n- Ticket sales: 100 tickets \u00d7 $5 = $500\n- Bake sale: $300\n- Raffle tickets: 200 tickets \u00d7 $2 = $400\n- Business sponsorships: $200\nTotal Income: $1,400\n\nExpenses:\n- Materials/supplies: $200\n- Venue costs: $150\n- Advertising: $50\n- Raffle prizes: $100\nTotal Expenses: $500\n\nNet Profit: $900\n\nAllocation of Funds:\n- 60% ($540) for school library\n- 25% ($225) for classroom supplies\n- 15% ($135) for future events\n\nMathematical concepts used: multiplication to calculate sales revenue, addition to sum income and expenses, subtraction to find profit, and percentages to allocate funds proportionally."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Create your own board game that requires players to use algebraic expressions to move around the board. Design the game board, explain the rules, and provide at least three example moves showing how the algebraic expressions are used.",
+    "answer": "\"Algebra Adventure\" - A board game where players navigate by solving and creating algebraic expressions.\n\nGame Board: A spiral path with 50 numbered spaces, starting at 0 and ending at the center \"Victory Zone.\" The board contains \"Challenge Squares\" every 5 spaces.\n\nRules:\n1. Players roll two dice to create variables x and y.\n2. On their turn, players must create an algebraic expression using x and y that equals their desired move value.\n3. Players can move forward the value of their expression if it's valid.\n4. Landing on Challenge Squares requires solving an equation to continue.\n5. First player to reach the Victory Zone wins.\n\nExample moves:\n1. Player rolls 3 and 5. They create the expression \"2x - y\" = 2(3) - 5 = 1, moving forward 1 space.\n2. Player rolls 4 and 2. They use \"x\u00b2 - y\" = 4\u00b2 - 2 = 14, advancing 14 spaces.\n3. Player lands on Challenge Square 25, draws \"Solve for x: 3x + 7 = 22.\" They correctly answer x = 5 and earn a bonus turn."
+  },
+  {
+    "topic": "math",
+    "difficulty": "junior high school",
+    "bloom_level": "Creating",
+    "question": "Design a new measurement system for a fictional planet where traditional units like meters and kilograms don't exist. Create at least three different units (for length, weight, and volume), explain how they relate to each other, and provide conversion formulas between your units.",
+    "answer": "For the planet Zenith, I've designed these measurement units:\n\nLength: The \"span\" is the length of a mature zenithian reed plant (approximately 20 cm in Earth terms). Smaller measurements use \"fingerspan\" (1/10 of a span) and larger distances use \"pathspan\" (100 spans).\nConversion: 1 pathspan = 100 spans = 1,000 fingerspans\n\nWeight: The \"heft\" equals the weight of a standard luminite crystal (about 500g in Earth terms). Lighter objects use \"dustheft\" (1/50 of a heft) and heavier weights use \"stoneheft\" (25 hefts).\nConversion: 1 stoneheft = 25 hefts = 1,250 dusthefts\n\nVolume: The \"bubble\" represents the capacity of a common air pocket in Zenith's porous rocks (about 1 liter in Earth terms). Smaller volumes use \"dropbubble\" (1/20 of a bubble) and larger volumes use \"poolbubble\" (15 bubbles).\nConversion: 1 poolbubble = 15 bubbles = 300 dropbubbles\n\nThe units relate through the planet's water equivalent: 1 bubble of zenithian water equals 1 heft, and a cube with sides of 1 span has a volume of 1 bubble."
+  }
+]
